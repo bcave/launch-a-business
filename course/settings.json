@@ -1,0 +1,615 @@
+{
+  "_id": "5967374c1568f8e516392e18",
+  "_menu": "playlistMenu",
+  "_courseId": "5967374c1568f8e516392e16",
+  "__v": 1020,
+  "_themeSettings": {
+    "_colors": {
+      "_labelAlternative": {
+        "@label-alt-text-color": "#454545",
+        "@label-alt-background-color": "#eeeeee"
+      },
+      "_markingAlternative": {
+        "@marking-alt-incorrect-color": "#ed5565",
+        "@marking-alt-correct-color": "#48cfad",
+        "@marking-alt-icon-color": "#ffffff"
+      },
+      "_captionAlternative": {
+        "@caption-alt-text-color": "#454545",
+        "@caption-alt-background-color": "#eeeeee"
+      },
+      "_attemptsCounterAlternative": {
+        "@attempts-counter-alt-text-color": "#454545",
+        "@attempts-counter-alt-border-color": "#454545",
+        "@attempts-counter-alt-background-color": "#ffffff"
+      },
+      "_buttonAlternative": {
+        "@button-alt-text-disabled-color": "#ccd1d9",
+        "@button-alt-text-hover-color": "#ffffff",
+        "@button-alt-text-color": "#ffffff",
+        "@button-alt-border-disabled-color": "#aab2bd",
+        "@button-alt-border-hover-color": "#4a89dc",
+        "@button-alt-border-color": "#5d9cec",
+        "@button-alt-background-disabled-color": "#aab2bd",
+        "@button-alt-background-hover-color": "#4a89dc",
+        "@button-alt-background-color": "#5d9cec"
+      },
+      "_componentItemAlternative": {
+        "@component-item-alt-body-background-color": "#eeeeee",
+        "@component-item-alt-body-text-color": "#454545",
+        "@component-item-alt-title-text-color": "#454545",
+        "@component-item-alt-text-visited-color": "#ffffff",
+        "@component-item-alt-text-disabled-color": "#ccd1d9",
+        "@component-item-alt-text-selected-color": "#ffffff",
+        "@component-item-alt-text-hover-color": "#ffffff",
+        "@component-item-alt-text-color": "#3498db",
+        "@component-item-alt-border-visited-color": "#5d9cec",
+        "@component-item-alt-border-disabled-color": "#aab2bd",
+        "@component-item-alt-border-selected-color": "#5d9cec",
+        "@component-item-alt-border-hover-color": "#5d9cec",
+        "@component-item-alt-border-color": "#eeeeee",
+        "@component-item-alt-background-visited-color": "#5d9cec",
+        "@component-item-alt-background-disabled-color": "#aab2bd",
+        "@component-item-alt-background-selected-color": "#5d9cec",
+        "@component-item-alt-background-hover-color": "#5d9cec",
+        "@component-item-alt-background-color": "#eeeeee"
+      },
+      "_componentAlternative": {
+        "@component-alt-instruction-text-color": "#454545",
+        "@component-alt-body-text-color": "#666666",
+        "@component-alt-title-text-color": "#454545"
+      },
+      "_contentRowAlternative": {
+        "@content-row-alt-border-color": "#ecf0f1",
+        "@content-row-alt-body-text-color": "#666666",
+        "@content-row-alt-title-text-color": "#454545"
+      },
+      "_achievements": {
+        "@achievements-lives-color": "#ed5565",
+        "@achievements-stars-color": "#ffce54",
+        "@achievements-points-color": "#48cfad"
+      },
+      "_notificationBadge": {
+        "@notification-badge-text-color": "#FFFFFF",
+        "@notification-badge-background-color": "#da4453"
+      },
+      "_loading": {
+        "@loading-text-color": "#454545"
+      },
+      "_marking": {
+        "@marking-incorrect-color": "#ed5565",
+        "@marking-correct-color": "#48cfad",
+        "@marking-icon-color": "#ffffff"
+      },
+      "_progressBar": {
+        "@progress-bar-text-color": "#454545",
+        "@progress-bar-border-color": "#ecf0f1",
+        "@progress-bar-indicator-color": "#48cfad",
+        "@progress-bar-background-color": "#e0e0e8"
+      },
+      "_score": {
+        "@score-label-color": "#454545",
+        "@score-text-color": "#ffffff",
+        "@score-background-color": "#454545"
+      },
+      "_chart": {
+        "@chart-highlight-color": "#48cfad",
+        "@chart-label-color": "#454545",
+        "@chart-text-color": "#454545",
+        "@chart-background-color": "#ccd1d9"
+      },
+      "_label": {
+        "@label-text-color": "#454545",
+        "@label-background-color": "#ebecee"
+      },
+      "_caption": {
+        "@caption-text-color": "#454545",
+        "@caption-background-color": "#ebecee"
+      },
+      "_collection": {
+        "@collection-item-footer-text-color": "#454545",
+        "@collection-item-footer-background-color": "#ebecee",
+        "@collection-item-text-color": "#454545",
+        "@collection-item-background-color": "#ffffff"
+      },
+      "_list": {
+        "@list-text-color": "#454545",
+        "@list-background-odd-color": "#d6d7d8",
+        "@list-background-color": "#ebecee"
+      },
+      "_attemptsCounter": {
+        "@attempts-counter-text-color": "#999999",
+        "@attempts-counter-border-color": "#999999",
+        "@attempts-counter-background-color": "#ffffff"
+      },
+      "_footer": {
+        "@footer-counter-text-color": "#454545",
+        "@footer-counter-background-color": "#ebecee",
+        "@footer-link-text-hover-color": "#3bafda",
+        "@footer-link-text-color": "#4fc1e9",
+        "@footer-link-background-hover-color": "#ffffff",
+        "@footer-link-background-color": "#ffffff",
+        "@footer-background-color": "#ffffff"
+      },
+      "_buttonWarning": {
+        "@button-warning-text-disabled-color": "#bdc3c7",
+        "@button-warning-text-hover-color": "#ffffff",
+        "@button-warning-text-color": "#FFFFFF",
+        "@button-warning-border-disabled-color": "#7f8c8d",
+        "@button-warning-border-hover-color": "#c71528",
+        "@button-warning-border-color": "#e74c3c",
+        "@button-warning-background-disabled-color": "#7f8c8d",
+        "@button-warning-background-hover-color": "#c71528",
+        "@button-warning-background-color": "#e74c3c"
+      },
+      "_button": {
+        "@button-text-disabled-color": "#ccd1d9",
+        "@button-text-hover-color": "#ffffff",
+        "@button-text-color": "#ffffff",
+        "@button-border-disabled-color": "#aab2bd",
+        "@button-border-hover-color": "#4a89dc",
+        "@button-border-color": "#5d9cec",
+        "@button-background-disabled-color": "#aab2bd",
+        "@button-background-hover-color": "#4a89dc",
+        "@button-background-color": "#bdc3c7"
+      },
+      "_notify": {
+        "@notify-button-text-hover-color": "#ffffff",
+        "@notify-button-text-color": "#ffffff",
+        "@notify-button-border-hover-color": "#4a89dc",
+        "@notify-button-border-color": "#5d9cec",
+        "@notify-button-background-hover-color": "#4a89dc",
+        "@notify-button-background-color": "#5d9cec",
+        "@notify-icon-color": "#5d9cec",
+        "@notify-body-text-color": "#666666",
+        "@notify-title-text-color": "#454545",
+        "@notify-background-color": "#ffffff"
+      },
+      "_navigation": {
+        "@navigation-mobile-icon-hover-color": "#4a89dc",
+        "@navigation-mobile-icon-color": "#2c3e50",
+        "@navigation-mobile-background-color": "#ecf0f1",
+        "@navigation-highlight-icon-hover-color": "#ecf0f1",
+        "@navigation-highlight-icon-color": "#ecf0f1",
+        "@navigation-highlight-hover-color": "#5d9cec",
+        "@navigation-highlight-color": "#4a89dc",
+        "@navigation-icon-selected-hover-color": "#4a89dc",
+        "@navigation-icon-selected-color": "#5d9cec",
+        "@navigation-icon-disabled-color": "#A0A1A2",
+        "@navigation-icon-hover-color": "#4a89dc",
+        "@navigation-icon-color": "#ecf0f1",
+        "@navigation-background-color": "#2c3e50"
+      },
+      "_componentItem": {
+        "@component-item-body-background-color": "#eeeeee",
+        "@component-item-body-text-color": "#454545",
+        "@component-item-title-text-color": "#454545",
+        "@component-item-text-visited-color": "#ffffff",
+        "@component-item-text-disabled-color": "#ccd1d9",
+        "@component-item-text-selected-color": "#ffffff",
+        "@component-item-text-hover-color": "#ffffff",
+        "@component-item-text-color": "#ffffff",
+        "@component-item-border-visited-color": "#8158cf",
+        "@component-item-border-disabled-color": "#aab2bd",
+        "@component-item-border-selected-color": "#8158cf",
+        "@component-item-border-hover-color": "#8158cf",
+        "@component-item-border-color": "#9978d8",
+        "@component-item-background-visited-color": "#8158cf",
+        "@component-item-background-disabled-color": "#aab2bd",
+        "@component-item-background-selected-color": "#8158cf",
+        "@component-item-background-hover-color": "#8158cf",
+        "@component-item-background-color": "#9978d8"
+      },
+      "_component": {
+        "@component-instruction-text-color": "#454545",
+        "@component-body-text-color": "#666666",
+        "@component-title-text-color": "#454545"
+      },
+      "_contentRow": {
+        "@content-row-border-color": "#ecf0f1",
+        "@content-row-body-text-color": "#666666",
+        "@content-row-title-text-color": "#454545"
+      },
+      "_contentStandOut": {
+        "@content-stand-out-icon-color": "#ffffff",
+        "@content-stand-out-icon-background-color": "#4fc1e9",
+        "@content-stand-out-background-color": "#FFFFFF"
+      },
+      "_contentSummary": {
+        "@content-summary-title-background-color": "#4fc1e9",
+        "@content-summary-body-text-color": "#666666",
+        "@content-summary-title-text-color": "#ffffff",
+        "@content-summary-background-color": "#ffffff"
+      },
+      "_contentKnowledgeCheck": {
+        "@content-knowledge-check-title-background-color": "#4fc1e9",
+        "@content-knowledge-check-body-text-color": "#666666",
+        "@content-knowledge-check-title-text-color": "#ffffff",
+        "@content-knowledge-check-background-color": "#ffffff"
+      },
+      "_contentArticle": {
+        "@content-article-border-color": "#4fc1e9",
+        "@content-article-body-text-color": "#666666",
+        "@content-article-title-text-color": "#454545",
+        "@content-article-background-color": "#ffffff"
+      },
+      "_contentDefault": {
+        "@content-default-body-text-color": "#666666",
+        "@content-default-title-text-color": "#454545",
+        "@content-default-background-color": "#ffffff"
+      },
+      "_heroImage": {
+        "@hero-body-text-color": "#ffffff",
+        "@hero-title-text-color": "#ffffff"
+      },
+      "_header": {
+        "@header-info-background-color": "#3bafda",
+        "@header-info-text-color": "#ffffff",
+        "@header-body-text-color": "#ffffff",
+        "@header-title-text-color": "#ffffff",
+        "@header-background-color": "#4fc1e9"
+      },
+      "_course": {
+        "@course-background-color": "#e6e9ed"
+      }
+    },
+    "_fonts": {
+      "_componentTitle": {
+        "_fontFamily": "Titillium Web",
+        "_fontType": "theme",
+        "_variables": {
+          "@component-title-font-line-height": 1.25,
+          "@component-title-font-weight": 700,
+          "@component-title-font-size": 25,
+          "@component-title-font-family": "Titillium Web"
+        }
+      },
+      "_contentRowTitle": {
+        "_fontFamily": "Titillium Web",
+        "_fontType": "theme",
+        "_variables": {
+          "@content-row-title-font-line-height": 1.25,
+          "@content-row-title-font-weight": 700,
+          "@content-row-title-font-size": 25,
+          "@content-row-title-font-family": "Titillium Web"
+        }
+      },
+      "_contentTitle": {
+        "_fontFamily": "Titillium Web",
+        "_fontType": "theme",
+        "_variables": {
+          "@content-title-font-line-height": 1.25,
+          "@content-title-font-weight": 700,
+          "@content-title-font-size": 35,
+          "@content-title-font-family": "Titillium Web"
+        }
+      },
+      "_header": {
+        "_fontFamily": "Titillium Web",
+        "_fontType": "theme",
+        "_variables": {
+          "@header-font-line-height": 1.25,
+          "@header-font-weight": 700,
+          "@header-font-size": 45,
+          "@header-font-family": "Titillium Web"
+        }
+      },
+      "_heroTitle": {
+        "_fontFamily": "Titillium Web",
+        "_fontType": "theme",
+        "_variables": {
+          "@hero-title-font-line-height": 1.25,
+          "@hero-title-font-weight": 700,
+          "@hero-title-font-size": 45,
+          "@hero-title-font-family": "Titillium Web"
+        }
+      },
+      "_body": {
+        "_fontFamily": "Titillium Web",
+        "_fontType": "theme",
+        "_variables": {
+          "@body-font-weight": 400,
+          "@body-font-size": 16,
+          "@body-font-family": "Titillium Web"
+        }
+      }
+    },
+    "_articleStyles": {
+      "stand-out": "Stand Out",
+      "summary": "Summary",
+      "knowledge-check": "Knowledge Check",
+      "content": "Content",
+      "default": "Default"
+    },
+    "_isEnabled": false
+  },
+  "_publishSettings": {
+    "_offline": {
+      "_isEnabled": false
+    },
+    "_scorm": {
+      "_reporting": {
+        "_onAssessmentFailure": "incomplete",
+        "_onTrackingCriteriaMet": "completed"
+      },
+      "_tracking": {
+        "_shouldSubmitScore": false,
+        "_requireAssessmentPassed": false,
+        "_requireCourseCompleted": false
+      },
+      "_shouldUseScrollFix": false,
+      "_shouldUsePopup": false,
+      "_scormVersion": "1.2",
+      "_isEnabled": false
+    },
+    "_tracker": {
+      "_pushData": "../../api/usersCourse",
+      "_getData": "../../api/usersCourse",
+      "_login": "../../api/login",
+      "_auth": "../../api/isAuthenticated",
+      "_isEnabled": false
+    }
+  },
+  "_assets": [
+    {
+      "_id": "592e999902778c512a0afb9b"
+    },
+    {
+      "_id": "58b02c5c6faa37e744951397"
+    },
+    {
+      "_id": "58af18c350d3bf600d233b6e"
+    },
+    {
+      "_id": "58b0376a6faa37e7449513a9"
+    },
+    {
+      "_id": "58b6b40e6faa37e74495147a"
+    },
+    {
+      "_id": "58b6b30d6faa37e744951475"
+    },
+    {
+      "_id": "58b01fb650d3bf600d233b9f"
+    },
+    {
+      "_id": "58b3fd8b6faa37e7449513ee"
+    },
+    {
+      "_id": "58b41ffc6faa37e744951408"
+    },
+    {
+      "_id": "58b040a16faa37e7449513e2"
+    },
+    {
+      "_id": "58b0435a6faa37e7449513e9"
+    },
+    {
+      "_id": "58b02e8d6faa37e744951399"
+    },
+    {
+      "_id": "58b86ba86faa37e7449516a1"
+    },
+    {
+      "_id": "58b86bcc6faa37e7449516a3"
+    },
+    {
+      "_id": "58b949886faa37e7449516ae"
+    },
+    {
+      "_id": "58b949266faa37e7449516a9"
+    },
+    {
+      "_id": "58b949746faa37e7449516ad"
+    },
+    {
+      "_id": "58b948ff6faa37e7449516a8"
+    },
+    {
+      "_id": "58b949636faa37e7449516ac"
+    },
+    {
+      "_id": "58b949476faa37e7449516ab"
+    },
+    {
+      "_id": "58b6b5df6faa37e74495147c"
+    },
+    {
+      "_id": "595628b8ef64ffa15e2f1e24"
+    },
+    {
+      "_id": "58ad7fa450d3bf600d233ae7"
+    },
+    {
+      "_id": "595e024a820fbf6e0433bd00"
+    },
+    {
+      "_id": "595e02cb820fbf6e0433bd01"
+    },
+    {
+      "_id": "595e0349820fbf6e0433bd02"
+    },
+    {
+      "_id": "595e052c820fbf6e0433bd03"
+    },
+    {
+      "_id": "595e05fe820fbf6e0433bd04"
+    },
+    {
+      "_id": "595e084d820fbf6e0433bd05"
+    },
+    {
+      "_id": "595e0c6c820fbf6e0433bd08"
+    },
+    {
+      "_id": "595e0bf6820fbf6e0433bd07"
+    },
+    {
+      "_id": "595e0a72820fbf6e0433bd06"
+    },
+    {
+      "_id": "594cd68887b6e2594d6d179b"
+    },
+    {
+      "_id": "59512ac46bf9a4dd79181513"
+    },
+    {
+      "_id": "594ce05387b6e2594d6d179e"
+    },
+    {
+      "_id": "591b352002778c512a0aa9b7"
+    },
+    {
+      "_id": "595dfbd8820fbf6e0433bcfd"
+    },
+    {
+      "_id": "595dfd16820fbf6e0433bcfe"
+    },
+    {
+      "_id": "595dffa9820fbf6e0433bcff"
+    },
+    {
+      "_id": "59512eb66bf9a4dd79181516"
+    },
+    {
+      "_id": "594d13d487b6e2594d6d17a7"
+    },
+    {
+      "_id": "595e144b820fbf6e0433bd0c"
+    },
+    {
+      "_id": "595e1516820fbf6e0433bd0d"
+    },
+    {
+      "_id": "595e159f820fbf6e0433bd0e"
+    },
+    {
+      "_id": "595e1740820fbf6e0433bd0f"
+    },
+    {
+      "_id": "594d16cd87b6e2594d6d17a9"
+    },
+    {
+      "_id": "59527b85fc96d4ba636c729c"
+    },
+    {
+      "_id": "594d17b887b6e2594d6d17aa"
+    },
+    {
+      "_id": "595e0fe7820fbf6e0433bd09"
+    },
+    {
+      "_id": "58de6db8fddda761309e0786"
+    },
+    {
+      "_id": "58de6df7fddda761309e078b"
+    },
+    {
+      "_id": "58de6e11fddda761309e078f"
+    },
+    {
+      "_id": "58de6e27fddda761309e0792"
+    },
+    {
+      "_id": "58de6e3cfddda761309e0795"
+    },
+    {
+      "_id": "58de6e4dfddda761309e0798"
+    },
+    {
+      "_id": "58e76186c5364e5c79974bcd"
+    },
+    {
+      "_id": "58e761e5c5364e5c79974bd3"
+    },
+    {
+      "_id": "58e761fbc5364e5c79974bd5"
+    },
+    {
+      "_id": "589853b550d3bf600d233ac1"
+    },
+    {
+      "_id": "595645d1ef64ffa15e2f1e35"
+    },
+    {
+      "_id": "59527d61fc96d4ba636c729e"
+    },
+    {
+      "_id": "594d227a87b6e2594d6d17ae"
+    },
+    {
+      "_id": "595647cfef64ffa15e2f1e36"
+    },
+    {
+      "_id": "59564838ef64ffa15e2f1e37"
+    },
+    {
+      "_id": "59564952ef64ffa15e2f1e38"
+    },
+    {
+      "_id": "59564c6def64ffa15e2f1e39"
+    },
+    {
+      "_id": "595124f56bf9a4dd79181510"
+    },
+    {
+      "_id": "595500ffe0711ea656fe2a3a"
+    },
+    {
+      "_id": "595123da6bf9a4dd7918150f"
+    },
+    {
+      "_id": "5954ff5de0711ea656fe2a39"
+    },
+    {
+      "_id": "58de7a77fddda761309e07af"
+    },
+    {
+      "_id": "58de7a90fddda761309e07b2"
+    },
+    {
+      "_id": "58dd8481fddda761309e072e"
+    },
+    {
+      "_id": "594d10a787b6e2594d6d17a4"
+    },
+    {
+      "_id": "59562badef64ffa15e2f1e2b"
+    },
+    {
+      "_id": "58dbb81313b751d90c4ee47c"
+    },
+    {
+      "_id": "595635eaef64ffa15e2f1e31"
+    },
+    {
+      "_id": "595e1921820fbf6e0433bd10"
+    },
+    {
+      "_id": "59563825ef64ffa15e2f1e32"
+    }
+  ],
+  "_components": [
+    "text",
+    "accordion",
+    "graphic",
+    "flowChart",
+    "textAndGraphic",
+    "mcq",
+    "ordering",
+    "checklist",
+    "videoStream",
+    "narrative",
+    "textNarrative",
+    "interactiveVideo",
+    "matching",
+    "dragAndDrop"
+  ],
+  "_extensions": [
+    "progress",
+    "courseNavigation",
+    "certificate",
+    "bookmarking",
+    "achievements"
+  ]
+}
