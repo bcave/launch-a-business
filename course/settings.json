@@ -361,6 +361,9 @@
       "_id": "58af18c350d3bf600d233b6e"
     },
     {
+      "_id": "598c3250abd446e07f9af8c7"
+    },
+    {
       "_id": "58b0376a6faa37e7449513a9"
     },
     {
@@ -577,9 +580,6 @@
       "_id": "59562badef64ffa15e2f1e2b"
     },
     {
-      "_id": "58dbb81313b751d90c4ee47c"
-    },
-    {
       "_id": "595635eaef64ffa15e2f1e31"
     },
     {
@@ -587,6 +587,27 @@
     },
     {
       "_id": "59563825ef64ffa15e2f1e32"
+    },
+    {
+      "_id": "598861417d86c20e2a40fb33"
+    },
+    {
+      "_id": "5988614a7d86c20e2a40fb34"
+    },
+    {
+      "_id": "597f02de4287197f7ae9dd18"
+    },
+    {
+      "_id": "598858797d86c20e2a40fb30"
+    },
+    {
+      "_id": "598857297d86c20e2a40fb2b"
+    },
+    {
+      "_id": "598857367d86c20e2a40fb2d"
+    },
+    {
+      "_id": "598857467d86c20e2a40fb2f"
     }
   ],
   "_components": [
@@ -594,22 +615,19 @@
     "accordion",
     "graphic",
     "flowChart",
-    "textAndGraphic",
     "mcq",
     "ordering",
     "checklist",
     "videoStream",
     "narrative",
-    "textNarrative",
     "interactiveVideo",
     "matching",
     "dragAndDrop"
   ],
   "_extensions": [
     "progress",
-    "courseNavigation",
-    "certificate",
-    "bookmarking",
-    "achievements"
+    "achievements",
+    "branding",
+    "courseAttainment"
   ]
 }

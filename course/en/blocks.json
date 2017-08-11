@@ -40,6 +40,7 @@
     "_courseId": "5967374c1568f8e516392e16",
     "__v": 0,
     "_refId": "58dd3f01fddda761309e0670",
+    "displayTitle": "",
     "_courseAttainment": {
       "_isEnabled": false
     },
@@ -51,12 +52,12 @@
     "_courseOrder": "0-2-0"
   },
   {
-    "_id": "596737541568f8e516392ea2",
+    "_id": "597f00914287197f7ae9dd0e",
     "_sortOrder": 0,
     "_parentId": "596737541568f8e516392ea1",
     "_courseId": "5967374c1568f8e516392e16",
     "__v": 0,
-    "_refId": "58dd4197fddda761309e0674",
+    "_refId": "597f00914287197f7ae9dd0e",
     "_courseAttainment": {
       "_isEnabled": false
     },
@@ -158,12 +159,12 @@
     "_courseOrder": "0-8-0"
   },
   {
-    "_id": "5967374e1568f8e516392e3c",
+    "_id": "598d70789d22de692fc7cc6d",
     "_courseId": "5967374c1568f8e516392e16",
-    "_parentId": "5967374e1568f8e516392e3b",
+    "_parentId": "598d70789d22de692fc7cc6c",
     "_sortOrder": 0,
     "__v": 0,
-    "_refId": "58dcdbfefddda761309e0636",
+    "_refId": "598d70789d22de692fc7cc6d",
     "_courseAttainment": {
       "_isEnabled": false
     },
@@ -193,12 +194,12 @@
     "_courseOrder": "1-1-0"
   },
   {
-    "_id": "5967374f1568f8e516392e42",
+    "_id": "5967374f1568f8e516392e4a",
     "_courseId": "5967374c1568f8e516392e16",
-    "_parentId": "5967374f1568f8e516392e41",
+    "_parentId": "5967374f1568f8e516392e49",
     "_sortOrder": 0,
     "__v": 0,
-    "_refId": "591c46f202778c512a0aabc8",
+    "_refId": "5923fe0802778c512a0af1c1",
     "_courseAttainment": {
       "_isEnabled": false
     },
@@ -210,12 +211,12 @@
     "_courseOrder": "1-2-0"
   },
   {
-    "_id": "5967374f1568f8e516392e4a",
+    "_id": "598c88b5abd446e07f9afc92",
     "_courseId": "5967374c1568f8e516392e16",
-    "_parentId": "5967374f1568f8e516392e49",
+    "_parentId": "598c88b5abd446e07f9afc91",
     "_sortOrder": 0,
     "__v": 0,
-    "_refId": "5923fe0802778c512a0af1c1",
+    "_refId": "598c88b5abd446e07f9afc92",
     "_courseAttainment": {
       "_isEnabled": false
     },
@@ -267,6 +268,7 @@
     "_courseId": "5967374c1568f8e516392e16",
     "__v": 0,
     "_refId": "59493dc859319c6b51c5bd5a",
+    "displayTitle": "",
     "_courseAttainment": {
       "_isEnabled": false
     },
@@ -440,12 +442,12 @@
     "_courseOrder": "2-0-0"
   },
   {
-    "_id": "5967374f1568f8e516392e51",
-    "_courseId": "5967374c1568f8e516392e16",
-    "_parentId": "5967374f1568f8e516392e50",
+    "_id": "598855067d86c20e2a40fb26",
     "_sortOrder": 0,
+    "_parentId": "5967374f1568f8e516392e50",
+    "_courseId": "5967374c1568f8e516392e16",
     "__v": 0,
-    "_refId": "58d2536213b751d90c4ed768",
+    "_refId": "598855067d86c20e2a40fb26",
     "_courseAttainment": {
       "_isEnabled": false
     },
@@ -542,12 +544,12 @@
     "_courseOrder": "2-6-0"
   },
   {
-    "_id": "596737511568f8e516392e77",
+    "_id": "59885eb67d86c20e2a40fb31",
     "_sortOrder": 1,
     "_parentId": "596737511568f8e516392e73",
     "_courseId": "5967374c1568f8e516392e16",
     "__v": 0,
-    "_refId": "59494a2859319c6b51c5bd65",
+    "_refId": "59885eb67d86c20e2a40fb31",
     "_courseAttainment": {
       "_isEnabled": false
     },
@@ -730,12 +732,12 @@
     "_courseOrder": "3-4-0"
   },
   {
-    "_id": "596737561568f8e516392ece",
-    "_sortOrder": 0,
-    "_parentId": "596737561568f8e516392ecd",
+    "_id": "5988621c7d86c20e2a40fb39",
     "_courseId": "5967374c1568f8e516392e16",
+    "_parentId": "5988621c7d86c20e2a40fb38",
+    "_sortOrder": 0,
     "__v": 0,
-    "_refId": "594b8e47f382c1d37dc8764a",
+    "_refId": "5988621c7d86c20e2a40fb39",
     "_courseAttainment": {
       "_isEnabled": false
     },
@@ -747,12 +749,12 @@
     "_courseOrder": "3-5-0"
   },
   {
-    "_id": "596737571568f8e516392edb",
+    "_id": "5988616d7d86c20e2a40fb35",
     "_sortOrder": 0,
     "_parentId": "596737571568f8e516392eda",
     "_courseId": "5967374c1568f8e516392e16",
     "__v": 0,
-    "_refId": "591b6ee902778c512a0aa9e4",
+    "_refId": "5988616d7d86c20e2a40fb35",
     "_courseAttainment": {
       "_isEnabled": false
     },

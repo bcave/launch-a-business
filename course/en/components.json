@@ -183,6 +183,7 @@
     },
     "_isInteractionLabelEnabled": false,
     "_isQuestionType": false,
+    "displayTitle": "",
     "_tags": {
       "_tagsList": [],
       "_isEnabled": false
@@ -334,153 +335,89 @@
     "_courseOrder": "0-2-0-0"
   },
   {
-    "_id": "596737541568f8e516392ea3",
-    "_component": "textAndGraphic",
-    "_layout": "full",
+    "_id": "597f01414287197f7ae9dd10",
+    "_component": "accordion",
+    "_layout": "left",
     "_courseId": "5967374c1568f8e516392e16",
-    "_parentId": "596737541568f8e516392ea2",
-    "__v": 0,
-    "body": "<p>There are six legal responsibilities of an employer.&nbsp;</p><p><br></p><p>They are straightforward, but it is very important that you know and act on them all.</p>",
-    "displayTitle": "The responsibilities of an employer",
-    "_refId": "58dd41a5fddda761309e0675",
+    "_parentId": "597f00914287197f7ae9dd0e",
     "_items": [
       {
-        "_itemGraphicLayout": "left",
-        "_isColumnItemGraphicAtBottom": false,
-        "_graphic": {
-          "small": {
-            "_id": "589853b550d3bf600d233ac1",
-            "_extension": "jpeg",
-            "_type": "image",
-            "_size": "small"
-          }
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
         },
-        "_itemTitleTextStyles": {
-          "_fontColor": "transparent",
-          "_fontSize": "",
-          "_textAlign": "left"
-        },
-        "title": "Decide how much to pay",
+        "_itemGraphicLayout": "right",
+        "body": "<p>You must pay your employee at least the national minimum wage. </p><p><br></p><p>It is strongly recommended that you pay at least the London living wage in London of £9.75 per hour, or for regions outside London at £8.45 per hour (as at July 2017).</p><p><br></p><p>The Living Wage Foundation and HMRC are great sources of information on wages.</p><p><br></p><p><b>Show me</b> - <a href=\"https://www.livingwage.org.uk/\" target=\"_blank\">Living Wage Foundation</a></p><p><b>Show me</b> - <a href=\"https://www.gov.uk/national-minimum-wage/what-is-the-minimum-wage\" target=\"_blank\">HMRC The national minimum wage and living wage</a></p>",
+        "_id": "597f01674287197f7ae9dd12",
         "itemIndex": 0,
-        "_id": "58dd41d2fddda761309e0676",
-        "body": "<p>You must pay your employee at least the national minimum wage.&nbsp;</p><p><br></p><p>It is strongly recommended that you pay at least the London living wage in London of £9.75 per hour, or for regions outside London at £8.45 per hour (as at July 2017).</p><p><br></p><p>The Living Wage Foundation and HMRC are great sources of information on wages.</p><p><br></p><p><b>Show me</b> - <a href=\"https://www.livingwage.org.uk/\" target=\"_blank\">Living Wage Foundation</a></p><p><b>Show me</b> - <a href=\"https://www.gov.uk/national-minimum-wage/what-is-the-minimum-wage\" target=\"_blank\">HMRC&nbsp;The national minimum wage and living wage</a></p>"
+        "title": "Decide how much to pay"
       },
       {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
         "_itemGraphicLayout": "right",
-        "_isColumnItemGraphicAtBottom": false,
-        "_graphic": {
-          "small": {
-            "_size": "small",
-            "_type": "image",
-            "_extension": "jpeg",
-            "_id": "589853b550d3bf600d233ac1"
-          }
-        },
-        "_itemTitleTextStyles": {
-          "_fontColor": "transparent",
-          "_fontSize": "",
-          "_textAlign": "left"
-        },
-        "body": "<p>Confirm that your potential or new employee has the legal right to work in the UK.&nbsp;</p><p><br></p><p>You may have to do other employment checks as well.&nbsp;</p><p><br></p><p><b>Show me</b> -&nbsp;<a href=\"https://www.gov.uk/legal-right-work-uk\" target=\"_blank\">Check if someone can work in the UK</a></p>",
+        "title": "Confirm the employee's legal right to work in the UK",
         "itemIndex": 1,
-        "_id": "58dd41f1fddda761309e0678",
-        "title": "Confirm the employee's legal right to work in the UK"
+        "_id": "597f01684287197f7ae9dd13",
+        "body": "<p>Confirm that your potential or new employee has the legal right to work in the UK. </p><p><br></p><p>You may have to do other employment checks as well. </p><p><br></p><p><b>Show me</b> - <a href=\"https://www.gov.uk/legal-right-work-uk\" target=\"_blank\">Check if someone can work in the UK</a></p>"
       },
       {
-        "_itemGraphicLayout": "left",
-        "_isColumnItemGraphicAtBottom": false,
-        "_graphic": {
-          "small": {
-            "_id": "589853b550d3bf600d233ac1",
-            "_extension": "jpeg",
-            "_type": "image",
-            "_size": "small"
-          }
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
         },
-        "_itemTitleTextStyles": {
-          "_fontColor": "transparent",
-          "_textAlign": "left",
-          "_fontSize": ""
-        },
-        "body": "<p>Apply for a DBS check (formerly known as a CRB check) if you work in a field that requires it.</p><p><br></p><p>For example, if you work&nbsp;<span style=\"font-size: 16px;\">with vulnerable people or security services.&nbsp;</span></p><p><br></p><p><b>Show me</b> -&nbsp;<a href=\"https://www.gov.uk/disclosure-barring-service-check/overview\" target=\"_blank\">DBS checks</a></p>",
-        "_id": "58dd420efddda761309e067a",
-        "itemIndex": 2,
-        "title": "Obtain security clearances if needed"
-      },
-      {
         "_itemGraphicLayout": "right",
-        "_isColumnItemGraphicAtBottom": false,
-        "_graphic": {
-          "small": {
-            "_size": "small",
-            "_type": "image",
-            "_extension": "jpeg",
-            "_id": "589853b550d3bf600d233ac1"
-          }
+        "title": "Obtain security clearances if needed",
+        "_id": "597f01694287197f7ae9dd14",
+        "itemIndex": 2,
+        "body": "<p>Apply for a DBS check (formerly known as a CRB check) if you work in a field that requires it.</p><p><br></p><p>For example, if you work with vulnerable people or security services. </p><p><br></p><p><b>Show me</b> - <a href=\"https://www.gov.uk/disclosure-barring-service-check/overview\" target=\"_blank\">DBS checks</a></p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
         },
-        "_itemTitleTextStyles": {
-          "_fontColor": "transparent",
-          "_fontSize": "",
-          "_textAlign": "left"
-        },
+        "_itemGraphicLayout": "right",
         "title": "Get employment insurance",
         "itemIndex": 3,
-        "_id": "58dd4228fddda761309e067c",
-        "body": "<p>You need employers’ liability insurance as soon as you become an employer.&nbsp;</p><p><br></p><p><b>Show me</b> -&nbsp;<a href=\"https://www.gov.uk/employers-liability-insurance\" target=\"_blank\">HMRC employers' liability insurance</a></p>"
+        "_id": "597f01694287197f7ae9dd15",
+        "body": "<p>You need employers’ liability insurance as soon as you become an employer. </p><p><br></p><p><b>Show me</b> - <a href=\"https://www.gov.uk/employers-liability-insurance\" target=\"_blank\">HMRC employers' liability insurance</a></p>"
       },
       {
-        "_itemGraphicLayout": "left",
-        "_isColumnItemGraphicAtBottom": false,
-        "_graphic": {
-          "small": {
-            "_id": "589853b550d3bf600d233ac1",
-            "_extension": "jpeg",
-            "_type": "image",
-            "_size": "small"
-          }
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
         },
-        "_itemTitleTextStyles": {
-          "_fontColor": "transparent"
-        },
-        "title": "Provide a written statement of employment",
-        "itemIndex": 4,
-        "_id": "58dd4254fddda761309e067e",
-        "body": "<p>Provide your new employee with these written documents:</p><ul><li>A job description<br></li><li>Details of the job<br></li><li>Working terms and conditions<br></li></ul><p><br></p><p>You must give your employee a written statement of employment if you’re employing someone for more than one month.&nbsp;</p><p><br></p><p><b>Show me</b> -&nbsp;<a href=\"https://www.gov.uk/government/publications/employment-particulars-written-statement-form\" target=\"_blank\">Employment particulars written statement</a></p>"
-      },
-      {
         "_itemGraphicLayout": "right",
-        "_isColumnItemGraphicAtBottom": false,
-        "_graphic": {
-          "small": {
-            "_size": "small",
-            "_type": "image",
-            "_extension": "jpeg",
-            "_id": "589853b550d3bf600d233ac1"
-          }
+        "body": "<p>Provide your new employee with these written documents:</p><ul><li>A job description<br></li><li>Details of the job<br></li><li>Working terms and conditions<br></li></ul><p>You must give your employee a written statement of employment if you’re employing someone for more than one month. </p><p><br></p><p><b>Show me</b> - <a href=\"https://www.gov.uk/government/publications/employment-particulars-written-statement-form\" target=\"_blank\">Employment particulars written statement</a></p>",
+        "_id": "597f016a4287197f7ae9dd16",
+        "itemIndex": 4,
+        "title": "Provide a written statement of employment"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
         },
-        "_itemTitleTextStyles": {
-          "_fontColor": "transparent",
-          "_fontSize": "",
-          "_textAlign": "left"
-        },
+        "_itemGraphicLayout": "right",
         "itemIndex": 5,
-        "_id": "58dd4262fddda761309e067f",
-        "title": "Register as an employer",
-        "body": "<p>Tell HM Revenue and Customs (HMRC) that you are now an employer by registering yourself as an employer. You can do this up to four weeks before you start to pay new staff.&nbsp;</p><p><br></p><p><b>Show me</b> - <a href=\"https://www.gov.uk/register-employer\" target=\"_blank\">Register as an employer</a></p>"
+        "_id": "597f016b4287197f7ae9dd17",
+        "body": "<p>Tell HM Revenue and Customs (HMRC) that you are now an employer by registering yourself as an employer. You can do this up to four weeks before you start to pay new staff. </p><p><br></p><p><b>Show me</b> - <a href=\"https://www.gov.uk/register-employer\" target=\"_blank\">Register as an employer</a></p>",
+        "title": "Register as an employer"
       }
     ],
-    "_itemTitleTextStyles": {
-      "_fontColor": "transparent",
-      "_textAlign": "left",
-      "_fontSize": ""
-    },
-    "_numberOfColumns": 3,
-    "_isColumnLayout": false,
+    "_shouldShowCheckIcon": false,
     "_interactionLabel": {
       "_location": "before widget"
     },
     "_isInteractionLabelEnabled": false,
     "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "597f01414287197f7ae9dd10",
+    "displayTitle": "The responsibilities of an employer",
+    "body": "<p>There are six legal responsibilities of an employer. </p><p><br></p><p>They are straightforward, but it is very important that you know and act on them all.</p>",
     "_tags": {
       "_tagsList": [],
       "_isEnabled": false
@@ -519,13 +456,80 @@
       "_isEnabled": false
     },
     "_classes": "",
-    "_displayTitleSettings": {
-      "_textAlign": "left",
-      "_fontSize": ""
-    },
     "title": "The responsibilities of an employer",
     "_type": "component",
     "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "597f01514287197f7ae9dd11",
+    "_component": "graphic",
+    "_layout": "right",
+    "_courseId": "5967374c1568f8e516392e16",
+    "_parentId": "597f00914287197f7ae9dd0e",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "597f02de4287197f7ae9dd18"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "597f01514287197f7ae9dd11",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-3-0-1"
   },
   {
     "_id": "596737541568f8e516392ea7",
@@ -607,7 +611,7 @@
     "_shouldShowDisplayTitleInFeedback": true,
     "_shouldUseIndividualItemFeedback": false,
     "_useCustomItemPrefix": false,
-    "_selectable": 1,
+    "_selectable": 3,
     "_isRandom": true,
     "_shouldDisplayAttempts": false,
     "_attempts": 10,
@@ -631,7 +635,7 @@
       "_isEnabled": true
     },
     "_courseAttainment": {
-      "_isEnabled": false
+      "_isEnabled": true
     },
     "_courseAssessment": {
       "_isEnabled": false
@@ -659,7 +663,7 @@
       "_textAlign": "left",
       "_fontSize": ""
     },
-    "title": "Mentors and advisers",
+    "title": "T2C1Q1 Mentors and advisers",
     "_type": "component",
     "_courseOrder": "0-5-0-0"
   },
@@ -721,7 +725,7 @@
       "_badgeIds": []
     },
     "_points": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "_stars": {
       "_isEnabled": false
@@ -820,10 +824,12 @@
       "_shouldUseGlobalCorrectFeedback": false,
       "_incorrect": {
         "_shouldUseGlobalIncorrectFeedback": false,
+        "notFinal": "<p><b>Are you sure about that?</b></p><p><br></p><p>What normally happens is write the job description, get the word out, interview with multiple colleagues, sell the role to your dream candidate and uphold your responsibilities as an employer.</p>",
         "final": "<p><b>Are you sure about that?</b></p><p><br></p><p>What normally happens is write the job description, get the word out, interview with multiple colleagues, sell the role to your dream candidate and uphold your responsibilities as an employer. </p>"
       },
       "_partlyCorrect": {
-        "_shouldUseGlobalPartlyCorrectFeedback": false
+        "_shouldUseGlobalPartlyCorrectFeedback": false,
+        "notFinal": "<p><b>Are you sure about that?</b></p><p><br></p><p>What normally happens is write the job description, get the word out, interview with multiple colleagues, sell the role to your dream candidate and uphold your responsibilities as an employer.</p>"
       },
       "_correctGraphic": {
         "_position": "right"
@@ -892,7 +898,7 @@
       "_isEnabled": true
     },
     "_courseAttainment": {
-      "_isEnabled": false
+      "_isEnabled": true
     },
     "_courseAssessment": {
       "_isEnabled": false
@@ -920,7 +926,7 @@
       "_textAlign": "left",
       "_fontSize": ""
     },
-    "title": "Hire the right candidates",
+    "title": "T2C1Q2 Hire the right candidates",
     "_type": "component",
     "_courseOrder": "0-6-0-1"
   },
@@ -1083,7 +1089,7 @@
       "_textAlign": "left",
       "_fontSize": ""
     },
-    "title": "Be a compliant employer",
+    "title": "T2C1Q3 Be a compliant employer",
     "_type": "component",
     "_courseOrder": "0-7-0-0"
   },
@@ -1165,8 +1171,8 @@
     "_courseId": "5967374c1568f8e516392e16",
     "_parentId": "596737541568f8e516392eb1",
     "__v": 0,
-    "body": "<p><span style=\"font-size: 16px;\">To build your team, you can start with mentors and advisers.&nbsp;</span></p><p><br></p><p>From there you can use the four step process to plan, source, screen and hire the right people for your team.&nbsp;</p><p><br></p><p>Finally, you can ensure your team is well looked after and keep things in order by upholding your six legal responsibilities as an employer.&nbsp;</p>",
-    "displayTitle": "Get the right people for the right job!",
+    "body": "<p>To build your team, you can start with mentors and advisers.&nbsp;</p><p><br></p><p>From there you can use the four step process to plan, source, screen and hire the right people for your team.&nbsp;</p><p><br></p><p>Finally, you can ensure your team is well looked after and keep things in order by upholding your six legal responsibilities as an employer.&nbsp;</p>",
+    "displayTitle": "",
     "_refId": "58d2536713b751d90c4ed871",
     "_interactionLabel": {
       "_location": "before body"
@@ -1220,20 +1226,19 @@
     "_courseOrder": "0-8-0-0"
   },
   {
-    "_id": "5967374e1568f8e516392e3d",
+    "_id": "598d70939d22de692fc7cc6e",
     "_component": "text",
     "_layout": "full",
     "_courseId": "5967374c1568f8e516392e16",
-    "_parentId": "5967374e1568f8e516392e3c",
-    "__v": 0,
-    "body": "<p></p><div>Your idea started life as something in your head, which was then turned into some models on paper, and then turned into a clearly explained idea that customers and investors can give you early feedback on.&nbsp;</div><p><br></p><p style=\"text-align: left;\">Now let's look at how to get your idea and product through the planning stage.</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">Let's see how to:</p><ul><li style=\"text-align: left;\">Check if your idea is worth acting on or holding out for a better one<br></li><li style=\"text-align: left;\">Plan a detailed and coherent proposition to customers by creating a pitch video, basic website and brochure<br></li><li style=\"text-align: left;\">Draft a business plan to explain your offer to business partners and co-founders&nbsp;<br></li></ul><p></p>",
-    "displayTitle": "",
-    "_refId": "58dd60f3fddda761309e06e4",
+    "_parentId": "598d70789d22de692fc7cc6d",
     "_interactionLabel": {
       "_location": "before body"
     },
     "_isInteractionLabelEnabled": false,
     "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "598d70939d22de692fc7cc6e",
+    "body": "<p>Your idea started life as something in your head, which was then turned into some models on paper, and then turned into a clearly explained idea that customers and investors can give you early feedback on. </p><p><br></p><p>Now let's look at how to get your idea and product through the planning stage.</p><p><br></p><p>Let's see how to:</p><ul><li>Check if your idea is worth acting on or holding out for a better one<br></li><li>Plan a detailed and coherent proposition to customers by creating a pitch video, basic website and brochure<br></li><li>Draft a business plan to explain your offer to business partners and co-founders&nbsp;<br></li></ul>",
     "_tags": {
       "_tagsList": [],
       "_isEnabled": false
@@ -1272,11 +1277,7 @@
       "_isEnabled": false
     },
     "_classes": "",
-    "_displayTitleSettings": {
-      "_textAlign": "left",
-      "_fontSize": ""
-    },
-    "title": "Here's how",
+    "title": "Text Title",
     "_type": "component",
     "_courseOrder": "1-0-0-0"
   },
@@ -1430,18 +1431,15 @@
     "_courseOrder": "1-1-0-1"
   },
   {
-    "_id": "5967374f1568f8e516392e43",
+    "_id": "5967374f1568f8e516392e4b",
     "_component": "videoStream",
     "_layout": "left",
     "_courseId": "5967374c1568f8e516392e16",
-    "_parentId": "5967374f1568f8e516392e42",
+    "_parentId": "5967374f1568f8e516392e4a",
     "__v": 0,
-    "_refId": "594a4b5335cd7bb165616520",
-    "displayTitle": "<br>",
-    "body": "",
-    "instruction": "",
+    "_refId": "594b88cff382c1d37dc87643",
     "_media": {
-      "_source": "<iframe src=\"https://player.vimeo.com/video/222493050?title=0&byline=0&portrait=0\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href=\"https://vimeo.com/222493050\">C2M2V1</a> from <a href=\"https://vimeo.com/user65166454\">DBAVideo</a> on <a href=\"https://vimeo.com\">Vimeo</a>.</p>",
+      "_source": "<iframe src=\"https://player.vimeo.com/video/222495881?title=0&byline=0&portrait=0\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href=\"https://vimeo.com/222495881\">C2M2V2</a> from <a href=\"https://vimeo.com/user65166454\">DBAVideo</a> on <a href=\"https://vimeo.com\">Vimeo</a>.</p>",
       "_isLightTheme": false,
       "_isAllowFullscreen": true,
       "_isAutoHideControls": true,
@@ -1502,77 +1500,15 @@
     "_courseOrder": "1-2-0-0"
   },
   {
-    "_id": "5967374f1568f8e516392e44",
-    "_component": "text",
-    "_layout": "right",
-    "_courseId": "5967374c1568f8e516392e16",
-    "_parentId": "5967374f1568f8e516392e42",
-    "__v": 0,
-    "_refId": "594a4f0935cd7bb165616523",
-    "displayTitle": "Founders' stories: Emma at Silkfred",
-    "instruction": "",
-    "body": "<p>Here is a founders' story from Emma at Silkfred.</p><p><br></p><p>Silkfred is a platform hosting independent fashion brands.</p><p><br></p><p>Emma talks about how she decided to make the jump.&nbsp;</p>",
-    "_interactionLabel": {
-      "_location": "before body"
-    },
-    "_isInteractionLabelEnabled": false,
-    "_isQuestionType": false,
-    "_tags": {
-      "_tagsList": [],
-      "_isEnabled": false
-    },
-    "_stamps": {
-      "_isEnabled": false
-    },
-    "_reflection": {
-      "_isEnabled": false
-    },
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_courseAttainment": {
-      "_isEnabled": false
-    },
-    "_courseAssessment": {
-      "_isEnabled": false
-    },
-    "_assignment": {
-      "feedback": "",
-      "_isCorrect": false,
-      "_isMarked": false,
-      "_isEnabled": false
-    },
-    "_badges": {
-      "_badgeIds": []
-    },
-    "_points": {
-      "_isEnabled": false
-    },
-    "_stars": {
-      "_isEnabled": false
-    },
-    "_links": {
-      "_isEnabled": false
-    },
-    "_classes": "",
-    "_displayTitleSettings": {
-      "_textAlign": "left",
-      "_fontSize": ""
-    },
-    "title": "Founders' stories: Emma at Silkfred",
-    "_type": "component",
-    "_courseOrder": "1-2-0-1"
-  },
-  {
     "_id": "5967374f1568f8e516392e4c",
     "_component": "text",
-    "_layout": "left",
+    "_layout": "right",
     "_courseId": "5967374c1568f8e516392e16",
     "_parentId": "5967374f1568f8e516392e4a",
     "__v": 0,
     "_refId": "594b88d5f382c1d37dc87644",
     "instruction": "",
-    "displayTitle": "Founders' stories: Josh at Night Zookeeper",
+    "displayTitle": "Founder stories: Josh at Night Zookeeper",
     "body": "<p>Here is a founders Story from Josh, the founder of Night Zookeeper.</p><p><br></p><p>Night Zookeeper is an interactive literacy tool for children.</p><p><br></p><p>Josh talks about how he decided to make the jump, too.</p>",
     "_interactionLabel": {
       "_location": "before body"
@@ -1621,29 +1557,90 @@
       "_textAlign": "left",
       "_fontSize": ""
     },
-    "title": "Founders' stories: Josh at Night Zookeeper",
+    "title": "Founder stories: Josh at Night Zookeeper",
+    "_type": "component",
+    "_courseOrder": "1-2-0-1"
+  },
+  {
+    "_id": "598c88b5abd446e07f9afc94",
+    "_component": "text",
+    "_layout": "left",
+    "_courseId": "5967374c1568f8e516392e16",
+    "_parentId": "598c88b5abd446e07f9afc92",
+    "__v": 0,
+    "instruction": "",
+    "displayTitle": "Founder stories: Emma at Silkfred",
+    "body": "<p>Here is a founders' story from Emma at Silkfred.</p><p><br></p><p>Silkfred is a platform hosting independent fashion brands.</p><p><br></p><p>Emma talks about how she decided to make the jump.&nbsp;</p>",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "598c88b5abd446e07f9afc94",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "left",
+      "_fontSize": ""
+    },
+    "title": "Founder stories: Emma at Silkfred",
     "_type": "component",
     "_courseOrder": "1-3-0-0"
   },
   {
-    "_id": "5967374f1568f8e516392e4b",
+    "_id": "598c88b5abd446e07f9afc93",
     "_component": "videoStream",
     "_layout": "right",
     "_courseId": "5967374c1568f8e516392e16",
-    "_parentId": "5967374f1568f8e516392e4a",
+    "_parentId": "598c88b5abd446e07f9afc92",
     "__v": 0,
-    "_refId": "594b88cff382c1d37dc87643",
     "_media": {
-      "_source": "<iframe src=\"https://player.vimeo.com/video/222495881\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
-      "_isLightTheme": false,
-      "_isAllowFullscreen": true,
-      "_isAutoHideControls": true,
-      "_isShowClosedCaptions": false,
-      "_isHD": true,
-      "_isKeyboardDisabled": false,
-      "_isLoop": false,
+      "_isAutoPlay": false,
       "_isShowRelated": false,
-      "_isAutoPlay": false
+      "_isLoop": false,
+      "_isKeyboardDisabled": false,
+      "_isHD": true,
+      "_isShowClosedCaptions": false,
+      "_isAutoHideControls": true,
+      "_isAllowFullscreen": true,
+      "_isLightTheme": false,
+      "_source": "<iframe src=\"https://player.vimeo.com/video/222493050?title=0&byline=0&portrait=0\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href=\"https://vimeo.com/222493050\">C2M2V1</a> from <a href=\"https://vimeo.com/user65166454\">DBAVideo</a> on <a href=\"https://vimeo.com\">Vimeo</a>.</p>"
     },
     "_service": "vimeo",
     "_setCompletionOn": "inview",
@@ -1652,6 +1649,7 @@
     },
     "_isInteractionLabelEnabled": false,
     "_isQuestionType": false,
+    "_refId": "598c88b5abd446e07f9afc93",
     "_tags": {
       "_tagsList": [],
       "_isEnabled": false
@@ -2241,44 +2239,44 @@
       {
         "_graphic": {
           "src": {
-            "_id": "595dfbd8820fbf6e0433bcfd",
-            "_extension": "jpeg",
+            "_size": "large",
             "_type": "image",
-            "_size": "large"
+            "_extension": "jpeg",
+            "_id": "595dfbd8820fbf6e0433bcfd"
           }
         },
-        "body": "<p>Your press release should describe in a simple way what the product does and why it exists. What are the features and benefits?&nbsp;</p><p><br></p><p>It should clarify how the world will see the product, not just how you think about it.</p>",
-        "_id": "58dab5b813b751d90c4ed995",
+        "title": "<b>Write a press release</b>",
         "itemIndex": 0,
-        "title": "Write a press release"
+        "_id": "58dab5b813b751d90c4ed995",
+        "body": "<p>Your press release should describe in a simple way what the product does and why it exists. What are the features and benefits?&nbsp;</p><p><br></p><p>It should clarify how the world will see the product, not just how you think about it.</p>"
       },
       {
         "_graphic": {
           "src": {
-            "_id": "595dfd16820fbf6e0433bcfe",
+            "_size": "large",
+            "_type": "image",
             "_extension": "jpeg",
-            "_type": "image",
-            "_size": "large"
+            "_id": "595dfd16820fbf6e0433bcfe"
           }
         },
-        "itemIndex": 1,
-        "_id": "58dab5c113b751d90c4ed996",
+        "title": "<b>Create an FAQ</b>",
         "body": "<p>Put yourself in the shoes of someone reading the press release or using the product and consider all the questions that they may come up with.</p><p><br></p><p>This should help you anticipate some frequently asked questions (FAQ) to help you figure out the issues and resistance that potential customers may have with your idea or product.<br></p>",
-        "title": "Create an FAQ"
+        "_id": "58dab5c113b751d90c4ed996",
+        "itemIndex": 1
       },
       {
         "_graphic": {
           "src": {
-            "_id": "595dffa9820fbf6e0433bcff",
-            "_extension": "png",
+            "_size": "large",
             "_type": "image",
-            "_size": "large"
+            "_extension": "png",
+            "_id": "595dffa9820fbf6e0433bcff"
           }
         },
-        "title": "Create a customer journey",
-        "_id": "58dd643bfddda761309e06eb",
+        "body": "<p>Describe in precise detail the customer experience for different things they might do with the product, for example registering for the newsletter or buying the product.&nbsp;For products with a user interface, build mock-ups of each screen that the customer sees, highlighting the options.</p><p><br></p><p>For web services, write use cases, including code snippets, to describe the ways you imagine customers will use the product.&nbsp;The goal here is to tell stories about how customers are solving their problems using your product.</p>",
         "itemIndex": 2,
-        "body": "<p>Describe in precise detail the customer experience for different things they might do with the product, for example registering for the newsletter or buying the product.&nbsp;</p><p><br></p><p>For products with a user interface, build mock-ups of each screen that the customer sees, highlighting the options.</p><p><br></p><p>For web services, write use cases, including code snippets, to describe the ways you imagine customers will use the product.&nbsp;</p><p><br></p><p>The goal here is to tell stories about how customers are solving their problems using your product.</p>"
+        "_id": "58dd643bfddda761309e06eb",
+        "title": "<b>Create a customer journey</b>"
       }
     ],
     "_narrativeLayout": "Left",
@@ -2357,7 +2355,7 @@
         "body": "<p></p><ul><li><p>Who should be on our management team?</p></li><li><p>What is the best organisational structure for this business?</p></li></ul>",
         "_id": "58d3a0e713b751d90c4ed93a",
         "itemIndex": 0,
-        "title": "Executive summary"
+        "title": "<b>Executive summary</b>"
       },
       {
         "_graphic": {
@@ -2371,7 +2369,7 @@
         "itemIndex": 1,
         "_id": "58d3a0fb13b751d90c4ed93b",
         "body": "<p></p><ul><li>What products will our customers want to buy?</li></ul>",
-        "title": "Details of the problem and solution"
+        "title": "<b>Details of the problem and solution</b>"
       },
       {
         "_graphic": {
@@ -2385,7 +2383,7 @@
         "body": "<ul><li>How will we make money?</li></ul>",
         "_id": "58dd65adfddda761309e06ec",
         "itemIndex": 7,
-        "title": "Your business model"
+        "title": "<b>Your business model</b>"
       },
       {
         "_graphic": {
@@ -2396,7 +2394,7 @@
             "_id": "595e052c820fbf6e0433bd03"
           }
         },
-        "title": "Your competitive advantage",
+        "title": "<b>Your competitive advantage</b>",
         "itemIndex": 8,
         "_id": "58dd65c8fddda761309e06ed",
         "body": "<ul><li>How will we make money?</li></ul>"
@@ -2410,7 +2408,7 @@
             "_id": "595e05fe820fbf6e0433bd04"
           }
         },
-        "title": "Marketing and sales strategy",
+        "title": "<b>Marketing and sales strategy</b>",
         "body": "<p></p><ul><li>Which customers should we target?<br></li><li>What products will our customers want to buy?<br></li><li><p>How should we communicate with our customers?</p></li><li><p>How can we protect our brand?</p></li><li><p>Which things should our company do, and which things should our partners and suppliers do?</p></li></ul>",
         "_id": "58d3a13a13b751d90c4ed93e",
         "itemIndex": 2
@@ -2427,7 +2425,7 @@
         "itemIndex": 3,
         "_id": "58d3a15513b751d90c4ed93f",
         "body": "<p></p><ul><li><p>Who are our competitors?</p></li><li><p>What makes us better?</p></li><li><p><span style=\"font-size: 16px;\">How will we know when to change course?</span><br></p></li></ul>",
-        "title": "Competitor analysis"
+        "title": "<b>Competitor analysis</b>"
       },
       {
         "_graphic": {
@@ -2438,7 +2436,7 @@
             "_size": "large"
           }
         },
-        "title": "Management team required",
+        "title": "<b>Management team required</b>",
         "itemIndex": 4,
         "_id": "58d3a16413b751d90c4ed940",
         "body": "<p></p><ul><li><p>Who are our competitors?</p></li><li><p>How are we better?</p></li><li><p>How will we know when to change course?</p></li></ul>"
@@ -2455,7 +2453,7 @@
         "itemIndex": 5,
         "_id": "58d3a17013b751d90c4ed941",
         "body": "<p></p><ul><li><p>Who should be on our management team?</p></li><li><p>What is the best organisational structure for this business?</p></li></ul>",
-        "title": "Financial projections and key metrics"
+        "title": "<b>Financial projections and key metrics</b>"
       },
       {
         "_graphic": {
@@ -2466,7 +2464,7 @@
             "_id": "595e0a72820fbf6e0433bd06"
           }
         },
-        "title": "Current status, accomplishments, timelines and use of funds",
+        "title": "<b>Current status, accomplishments, timelines and use of funds</b>",
         "body": "<p></p><ul><li>What have we achieved so far?</li><li>Whose investment capital will help us, and whose might hurt us?<br></li></ul><p></p>",
         "_id": "58d3a18513b751d90c4ed942",
         "itemIndex": 6
@@ -2536,30 +2534,31 @@
     "instruction": "",
     "_refId": "58d3b09713b751d90c4ed95d",
     "_feedback": {
-      "correct": "<p><b>That's right!&nbsp;</b></p><p><br></p><p>You can't be 100% sure an idea works until you try it but the other questions could help you weed out a weak idea.</p>",
-      "_partlyCorrectNotFinalGraphic": {
-        "_position": "right"
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "notFinal": "<p><b>Are you sure about that?</b></p><p><br></p><p>You can't be 100% sure an idea works until you try it but the other questions could help you weed out a weak idea.</p>",
+        "final": "<p><b>Are you sure about that?</b></p><p><b><br></b></p><p>You can't be 100% sure an idea works until you try it but the other questions could help you weed out a weak idea.<b><br></b></p>"
       },
-      "_partlyCorrectFinalGraphic": {
-        "_position": "right"
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false
       },
-      "_incorrectNotFinalGraphic": {
+      "_correctGraphic": {
         "_position": "right"
       },
       "_incorrectFinalGraphic": {
         "_position": "right"
       },
-      "_correctGraphic": {
+      "_incorrectNotFinalGraphic": {
         "_position": "right"
       },
-      "_partlyCorrect": {
-        "_shouldUseGlobalPartlyCorrectFeedback": false
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
       },
-      "_incorrect": {
-        "final": "<p><b>Are you sure about that?</b></p><p><b><br></b></p><p>You can't be 100% sure an idea works until you try it but the other questions could help you weed out a weak idea.<b><br></b></p>",
-        "_shouldUseGlobalIncorrectFeedback": false
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
       },
-      "_shouldUseGlobalCorrectFeedback": false
+      "correct": "<p><b>That's right!&nbsp;</b></p><p><br></p><p>You can't be 100% sure an idea works until you try it but the other questions could help you weed out a weak idea.</p>"
     },
     "_items": [
       {
@@ -2628,7 +2627,7 @@
       "_isEnabled": false
     },
     "_courseAttainment": {
-      "_isEnabled": false
+      "_isEnabled": true
     },
     "_courseAssessment": {
       "_isEnabled": false
@@ -2652,7 +2651,7 @@
       "_isEnabled": false
     },
     "_classes": "",
-    "title": "Clarify your idea",
+    "title": "T1C2Q1 Clarify your idea",
     "_type": "component",
     "_courseOrder": "1-11-0-0"
   },
@@ -2739,30 +2738,31 @@
     "_refId": "58d3b7e013b751d90c4ed96e",
     "instruction": "",
     "_feedback": {
-      "correct": "<p><b>Well done!&nbsp;</b></p><p><br></p><p>Customer materials should generate awareness, interest, desire and action.&nbsp;</p>",
-      "_partlyCorrectNotFinalGraphic": {
-        "_position": "right"
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "notFinal": "<p><b>Are you sure about that?</b></p><p><br></p><p>Customer materials should generate awareness, interest, desire and action.&nbsp;</p>",
+        "final": "<p><b>Are you sure about that?</b></p><p><br></p><p>Customer materials should generate awareness, interest, desire and action.&nbsp;<br></p>"
       },
-      "_partlyCorrectFinalGraphic": {
-        "_position": "right"
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false
       },
-      "_incorrectNotFinalGraphic": {
+      "_correctGraphic": {
         "_position": "right"
       },
       "_incorrectFinalGraphic": {
         "_position": "right"
       },
-      "_correctGraphic": {
+      "_incorrectNotFinalGraphic": {
         "_position": "right"
       },
-      "_partlyCorrect": {
-        "_shouldUseGlobalPartlyCorrectFeedback": false
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
       },
-      "_incorrect": {
-        "final": "<p>Are you sure about that?</p><p><br></p><p>Customer materials should generate awareness, interest, desire and action.&nbsp;<br></p>",
-        "_shouldUseGlobalIncorrectFeedback": false
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
       },
-      "_shouldUseGlobalCorrectFeedback": false
+      "correct": "<p><b>Well done!&nbsp;</b></p><p><br></p><p>Customer materials should generate awareness, interest, desire and action.&nbsp;</p>"
     },
     "_items": [
       {
@@ -2831,7 +2831,7 @@
       "_isEnabled": true
     },
     "_courseAttainment": {
-      "_isEnabled": false
+      "_isEnabled": true
     },
     "_courseAssessment": {
       "_isEnabled": false
@@ -2859,7 +2859,7 @@
       "_textAlign": "left",
       "_fontSize": ""
     },
-    "title": "Customer materials",
+    "title": "T1C2Q2 Customer materials",
     "_type": "component",
     "_courseOrder": "1-12-0-0"
   },
@@ -2878,10 +2878,12 @@
       "_shouldUseGlobalCorrectFeedback": false,
       "_incorrect": {
         "_shouldUseGlobalIncorrectFeedback": false,
-        "final": "<p><b>Are you sure about that?&nbsp;</b></p><p><br></p><p>Business plans should be dynamic and customised documents.</p>"
+        "final": "<p><b>Are you sure about that?&nbsp;</b></p><p><br></p><p>Business plans should be dynamic and customised documents.</p>",
+        "notFinal": "<p><b>Are you sure about that? </b></p><p><br></p><p>Business plans should be dynamic and customised documents.</p>"
       },
       "_partlyCorrect": {
-        "_shouldUseGlobalPartlyCorrectFeedback": false
+        "_shouldUseGlobalPartlyCorrectFeedback": false,
+        "notFinal": "<p><b>Are you sure about that?</b></p><p><br></p><p>Business plans should be dynamic and customised documents.</p>"
       },
       "_correctGraphic": {
         "_position": "right"
@@ -2967,7 +2969,7 @@
       "_isEnabled": true
     },
     "_courseAttainment": {
-      "_isEnabled": false
+      "_isEnabled": true
     },
     "_courseAssessment": {
       "_isEnabled": false
@@ -2995,7 +2997,7 @@
       "_textAlign": "left",
       "_fontSize": ""
     },
-    "title": "Business plans",
+    "title": "T1C2Q3 Business plans",
     "_type": "component",
     "_courseOrder": "1-13-0-0"
   },
@@ -3138,7 +3140,7 @@
     "_courseId": "5967374c1568f8e516392e16",
     "_parentId": "596737501568f8e516392e5f",
     "__v": 0,
-    "body": "<p style=\"text-align: left;\">The best source of funding is always from selling your product - that way you don't owe anyone anything!</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">For that reason, the less you can spend before you start to bring in sales, the better.&nbsp;</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">You need to be creative and bold to get a lot done on &nbsp;a shoestring.&nbsp;But you will be positively surprised by how much can be done for free (or very little).</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">To get by, you may want to find out about -</p><ul><li style=\"text-align: left;\">What freebies and discounts you might be eligible for&nbsp;</li><li style=\"text-align: left;\">How you could get your first pot of money</li><li style=\"text-align: left;\">What is important to investors when they think about investing</li></ul>",
+    "body": "<p style=\"text-align: left;\">The best source of funding is always from selling your product - that way you don't owe anyone anything!</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">For that reason, the less you can spend before you start to bring in sales, the better.&nbsp;</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">You need to be creative and bold to get a lot done on &nbsp;a shoestring.&nbsp;But you will be positively surprised by how much can be done for free (or very little).</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">To get by, you may want to find out about:</p><ul><li style=\"text-align: left;\">What freebies and discounts you might be eligible for&nbsp;</li><li style=\"text-align: left;\">How you could get your first pot of money</li><li style=\"text-align: left;\">What is important to investors when they think about investing</li></ul>",
     "displayTitle": "",
     "_refId": "58db885e13b751d90c4ee42e",
     "_interactionLabel": {
@@ -3189,47 +3191,79 @@
     "_courseOrder": "2-0-0-0"
   },
   {
-    "_id": "5967374f1568f8e516392e52",
-    "_component": "textNarrative",
+    "_id": "5988550e7d86c20e2a40fb27",
+    "_component": "narrative",
     "_layout": "full",
     "_courseId": "5967374c1568f8e516392e16",
-    "_parentId": "5967374f1568f8e516392e51",
-    "__v": 0,
-    "_refId": "591b517102778c512a0aa9c3",
-    "body": "<p>There is a wealth of support available for entrepreneurs.&nbsp;</p><p><br></p><p>Here are some potential shortcuts you might consider researching.</p>",
-    "displayTitle": "Bootstrapping",
-    "instruction": "",
+    "_parentId": "598855067d86c20e2a40fb26",
     "_items": [
       {
+        "_graphic": {
+          "src": {
+            "_id": "598858797d86c20e2a40fb30",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
         "body": "<p>Look for accelerators.</p><p><br></p><p>These are funded programmes that are located all around the country, offering mentoring, free office space and sometimes money to startups who the accelerators think look promising.&nbsp;</p>",
-        "title": "Office space",
-        "_id": "591b51a202778c512a0aa9c4",
-        "itemIndex": 0
+        "itemIndex": 0,
+        "_id": "5988564f7d86c20e2a40fb28",
+        "title": "Office space"
       },
       {
-        "body": "<p>Have you looked on Freecycle for people giving things away?&nbsp;</p><p><br></p><p><b>Show me</b> - <a href=\"https://www.freecycle.org/\" target=\"_blank\">Freecycle</a></p><p><br></p><p>A timely post on Facebook could unearth friends with spare chairs, printers and laptops lying around.</p><p><br></p><p>Do you have any corporate partners who just happen to &nbsp;be upgrading their old stock?&nbsp;</p>",
-        "title": "Office furniture and supplies",
-        "_id": "591b51dd02778c512a0aa9c5",
-        "itemIndex": 1
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "598857297d86c20e2a40fb2b"
+          }
+        },
+        "body": "<p>Have you looked on Freecycle for people giving things away? </p><p><br></p><p><b>Show me -</b> <a href=\"https://www.freecycle.org/\" target=\"_blank\">Freecycle</a></p><p><br></p><p>A timely post on Facebook could unearth friends with spare chairs, printers and laptops lying around.</p><p><br></p><p>Do you have any corporate partners who just happen to  be upgrading their old stock?&nbsp;</p>",
+        "_id": "598856667d86c20e2a40fb2a",
+        "itemIndex": 1,
+        "title": "Office supplies and furniture"
       },
       {
-        "body": "<p>Local libraries and universities sometimes offer free business advice to startups.&nbsp;</p><p><br></p><p>Legal firms often do pro bono&nbsp;work for startups in the hope they will become clients down the line.&nbsp;<span style=\"font-size: 16px;\">Perhaps you can help them in return? Fixing their website? Tutoring their kids? Helping out a charity they are passionate about?</span></p><p><br></p><p>In any case, it is always worth asking, and for the cost of a coffee and cake, it could make all the difference.</p>",
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "598857367d86c20e2a40fb2d"
+          }
+        },
+        "title": "Advice",
+        "_id": "5988572d7d86c20e2a40fb2c",
         "itemIndex": 2,
-        "_id": "591b524102778c512a0aa9c6",
-        "title": "Advice"
+        "body": "<p>Local libraries and universities sometimes offer free business advice to startups. </p><p><br></p><p>Legal firms often do pro bono work for startups in the hope they will become clients down the line. Perhaps you can help them in return? Fixing their website? Tutoring their kids? Helping out a charity they are passionate about?</p><p><br></p><p>In any case, it is always worth asking, and for the cost of a coffee and cake, it could make all the difference.</p>"
       },
       {
-        "body": "<p>The internet is full of free and low cost platforms and templates which you only need to customise &nbsp;to make them ready for launch.&nbsp;</p><p><br></p><p>Whether you are launching a marketplace, a crowdfunding website, an online shop or a community, check there isn't a ready made template before paying to have your own built.&nbsp;</p>",
-        "itemIndex": 3,
-        "_id": "591b52d602778c512a0aa9c7",
-        "title": "Simple websites"
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "598857467d86c20e2a40fb2f"
+          }
+        },
+        "title": "Simple websites",
+        "body": "<p>The internet is full of free and low cost platforms and templates which you only need to customise  to make them ready for launch. </p><p><br></p><p>Whether you are launching a marketplace, a crowdfunding website, an online shop or a community, check there isn't a ready made template before paying to have your own built.&nbsp;</p>",
+        "_id": "5988573a7d86c20e2a40fb2e",
+        "itemIndex": 3
       }
     ],
+    "_narrativeLayout": "Left",
     "_interactionLabel": {
       "_location": "before widget"
     },
     "_isInteractionLabelEnabled": false,
     "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5988550e7d86c20e2a40fb27",
+    "displayTitle": "Bootstrapping",
+    "body": "<p>There is a wealth of support available for entrepreneurs. </p><p><br></p><p>Here are some potential shortcuts you might consider researching.</p>",
     "_tags": {
       "_tagsList": [],
       "_isEnabled": false
@@ -3268,10 +3302,6 @@
       "_isEnabled": false
     },
     "_classes": "",
-    "_displayTitleSettings": {
-      "_textAlign": "left",
-      "_fontSize": ""
-    },
     "title": "Bootstrapping",
     "_type": "component",
     "_courseOrder": "2-1-0-0"
@@ -3632,8 +3662,8 @@
     "_courseId": "5967374c1568f8e516392e16",
     "_parentId": "596737511568f8e516392e71",
     "__v": 0,
-    "displayTitle": "Founders' stories: Raising your first pot of money",
-    "body": "<p>Alex Siljanovski, a Founder linked to the UCL Ideas Hub, shares his experiences of raising his first pot of money.</p>",
+    "displayTitle": "Founder stories: Raising your first pot of money",
+    "body": "<p>Alex Siljanovski, a founder linked to the UCL Ideas Hub, shares his experiences of raising his first pot of money.</p>",
     "_refId": "58db8cf813b751d90c4ee43d",
     "instruction": "",
     "_completion": {
@@ -3796,7 +3826,7 @@
       "_textAlign": "left",
       "_fontSize": ""
     },
-    "title": "Founders' stories: Raising your first pot of money",
+    "title": "Founder stories: Raising your first pot of money",
     "_type": "component",
     "_courseOrder": "2-4-0-0"
   },
@@ -3984,18 +4014,12 @@
     "_courseOrder": "2-6-0-0"
   },
   {
-    "_id": "596737511568f8e516392e75",
+    "_id": "59885ee57d86c20e2a40fb32",
     "_component": "videoStream",
     "_layout": "right",
     "_courseId": "5967374c1568f8e516392e16",
     "_parentId": "596737511568f8e516392e74",
-    "__v": 0,
-    "_refId": "594947a159319c6b51c5bd63",
-    "displayTitle": "",
-    "instruction": "",
-    "body": "<p><br></p><p><br></p>",
     "_media": {
-      "_source": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/mjfa1AUfhlo\" frameborder=\"0\" allowfullscreen></iframe>",
       "_isLightTheme": false,
       "_isAllowFullscreen": true,
       "_isAutoHideControls": true,
@@ -4004,7 +4028,8 @@
       "_isKeyboardDisabled": false,
       "_isLoop": false,
       "_isShowRelated": false,
-      "_isAutoPlay": false
+      "_isAutoPlay": false,
+      "_source": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/mjfa1AUfhlo\" frameborder=\"0\" allowfullscreen></iframe>"
     },
     "_service": "youtube",
     "_setCompletionOn": "inview",
@@ -4013,6 +4038,8 @@
     },
     "_isInteractionLabelEnabled": false,
     "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "59885ee57d86c20e2a40fb32",
     "_tags": {
       "_tagsList": [],
       "_isEnabled": false
@@ -4060,7 +4087,7 @@
     "_component": "videoStream",
     "_layout": "left",
     "_courseId": "5967374c1568f8e516392e16",
-    "_parentId": "596737511568f8e516392e77",
+    "_parentId": "59885eb67d86c20e2a40fb31",
     "__v": 0,
     "_refId": "59494a3659319c6b51c5bd66",
     "instruction": "",
@@ -4130,7 +4157,7 @@
     "_component": "videoStream",
     "_layout": "right",
     "_courseId": "5967374c1568f8e516392e16",
-    "_parentId": "596737511568f8e516392e77",
+    "_parentId": "59885eb67d86c20e2a40fb31",
     "__v": 0,
     "_refId": "59494a7459319c6b51c5bd67",
     "_media": {
@@ -4209,6 +4236,7 @@
       "_shouldUseGlobalCorrectFeedback": false,
       "_incorrect": {
         "_shouldUseGlobalIncorrectFeedback": false,
+        "notFinal": "<p><b>Are you sure about that?</b></p><p><br></p><p>The less money you need to borrow to get going, the less money you will owe down the line.</p><p><br></p><p>You also get to hold on to all your equity.&nbsp;</p>",
         "final": "<p><b>Are you sure about that?</b></p><p><br></p><p>The less money you need to borrow to get going, the less money you will owe down the line.</p><p><br></p><p>You also get to hold on to all your equity.&nbsp;</p>"
       },
       "_partlyCorrect": {
@@ -4280,7 +4308,7 @@
       "_isEnabled": true
     },
     "_courseAttainment": {
-      "_isEnabled": false
+      "_isEnabled": true
     },
     "_courseAssessment": {
       "_isEnabled": false
@@ -4304,7 +4332,7 @@
       "_isEnabled": false
     },
     "_classes": "",
-    "title": "Bootstrapping",
+    "title": "T2C3Q1 Bootstrapping",
     "_type": "component",
     "_courseOrder": "2-8-0-0"
   },
@@ -4465,10 +4493,12 @@
       "_shouldUseGlobalCorrectFeedback": false,
       "_incorrect": {
         "_shouldUseGlobalIncorrectFeedback": false,
-        "final": "<p><b>Are you sure about that?&nbsp;</b></p><p><br></p><p>Grant funding doesn't need to be paid back, equity funding is given in exchange for shares and debt funding is loans which need to be paid back with interest.<br></p>"
+        "final": "<p><b>Are you sure about that?&nbsp;</b></p><p><br></p><p>Grant funding doesn't need to be paid back, equity funding is given in exchange for shares and debt funding is loans which need to be paid back with interest.<br></p>",
+        "notFinal": "<p><b>Are you sure about that? </b></p><p><br></p><p>Grant funding doesn't need to be paid back, equity funding is given in exchange for shares and debt funding is loans which need to be paid back with interest.</p>"
       },
       "_partlyCorrect": {
-        "_shouldUseGlobalPartlyCorrectFeedback": false
+        "_shouldUseGlobalPartlyCorrectFeedback": false,
+        "notFinal": "<p><b>Are you sure about that? </b></p><p><br></p><p>Grant funding doesn't need to be paid back, equity funding is given in exchange for shares and debt funding is loans which need to be paid back with interest.</p>"
       },
       "_correctGraphic": {
         "_position": "right"
@@ -4564,6 +4594,7 @@
     },
     "_isInteractionLabelEnabled": false,
     "_isQuestionType": true,
+    "placeholder": "Select your answer...",
     "_tags": {
       "_tagsList": [],
       "_isEnabled": false
@@ -4578,7 +4609,7 @@
       "_isEnabled": false
     },
     "_courseAttainment": {
-      "_isEnabled": false
+      "_isEnabled": true
     },
     "_courseAssessment": {
       "_isEnabled": false
@@ -4606,7 +4637,7 @@
       "_textAlign": "left",
       "_fontSize": ""
     },
-    "title": "Funding types",
+    "title": "T2C3Q2 Funding types",
     "_type": "component",
     "_courseOrder": "2-9-0-1"
   },
@@ -4723,7 +4754,7 @@
       "_isEnabled": true
     },
     "_courseAttainment": {
-      "_isEnabled": false
+      "_isEnabled": true
     },
     "_courseAssessment": {
       "_isEnabled": false
@@ -4751,7 +4782,7 @@
       "_textAlign": "left",
       "_fontSize": ""
     },
-    "title": "What investors look for in a business",
+    "title": "T2C3Q3 What investors look for in a business",
     "_type": "component",
     "_courseOrder": "2-10-0-0"
   },
@@ -5072,7 +5103,7 @@
   {
     "_id": "596737571568f8e516392ee0",
     "_component": "narrative",
-    "_layout": "left",
+    "_layout": "full",
     "_courseId": "5967374c1568f8e516392e16",
     "_parentId": "596737571568f8e516392ede",
     "__v": 0,
@@ -5083,30 +5114,44 @@
       {
         "_graphic": {
           "src": {
-            "_size": "large",
-            "_type": "image",
+            "_id": "595635eaef64ffa15e2f1e31",
             "_extension": "jpeg",
-            "_id": "595635eaef64ffa15e2f1e31"
+            "_type": "image",
+            "_size": "large"
           }
         },
-        "title": "Innovators&nbsp;",
-        "body": "<p>People who actively seek out new products to try.</p><p><br></p><p>Also known as hackers who are keen to work with even partially completed products.</p>",
+        "itemIndex": 0,
         "_id": "58dd817dfddda761309e071d",
-        "itemIndex": 0
+        "body": "<p>People who actively seek out new products to try.</p><p><br></p><p>Also known as hackers who are keen to work with even partially completed products.</p>",
+        "title": "Innovators&nbsp;"
       },
       {
         "_graphic": {
           "src": {
-            "_size": "large",
-            "_type": "image",
+            "_id": "595e1921820fbf6e0433bd10",
             "_extension": "jpeg",
-            "_id": "595e1921820fbf6e0433bd10"
+            "_type": "image",
+            "_size": "large"
           }
         },
-        "title": "Early adopters",
-        "_id": "58dd8192fddda761309e071e",
+        "body": "<p>Visionaries who are keen to get ahead of the herd.</p><p><br></p><p>They are actively looking for new products or services that can make their lives better.</p>",
         "itemIndex": 1,
-        "body": "<p>Visionaries who are keen to get ahead of the herd.</p><p><br></p><p>They are actively looking for new products or services that can make their lives better.</p>"
+        "_id": "58dd8192fddda761309e071e",
+        "title": "Early adopters"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "59563825ef64ffa15e2f1e32",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "title": "Early majority",
+        "_id": "58dd819ffddda761309e071f",
+        "itemIndex": 2,
+        "body": "<p>The first of our mainstream customers if we are going to reach significant scale.&nbsp;</p><p><br></p><p>These are the pragmatists who want to stick with the herd.&nbsp;</p><p><br></p><p>They seek innovation, but don't want anything that is too threatening to their business.</p>"
       },
       {
         "_graphic": {
@@ -5114,28 +5159,30 @@
             "_size": "large",
             "_type": "image",
             "_extension": "jpeg",
-            "_id": "59563825ef64ffa15e2f1e32"
+            "_id": "598861417d86c20e2a40fb33"
           }
         },
-        "body": "<p>The first of our mainstream customers if we are going to reach significant scale.&nbsp;</p><p><br></p><p>These are the pragmatists who want to stick with the herd.&nbsp;</p><p><br></p><p>They seek innovation, but don't want anything that is too threatening to their business.</p>",
-        "itemIndex": 2,
-        "_id": "58dd819ffddda761309e071f",
-        "title": "Early majority"
-      },
-      {
-        "body": "<p>Conservative buyers who need a lot of convincing to switch to new solutions.</p><p><br></p><p>They need to be sure they are buying into a mature and robust product or service.</p>",
-        "title": "Late majority",
+        "itemIndex": 3,
         "_id": "58dd81a3fddda761309e0721",
-        "itemIndex": 3
+        "title": "Late majority",
+        "body": "<p>Conservative buyers who need a lot of convincing to switch to new solutions.</p><p><br></p><p>They need to be sure they are buying into a mature and robust product or service.</p>"
       },
       {
-        "body": "<p>There are always those who will only buy on the basis of price rather than improved or enhanced capability.</p>",
-        "itemIndex": 4,
+        "_graphic": {
+          "src": {
+            "_id": "5988614a7d86c20e2a40fb34",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "title": "Laggards",
         "_id": "58dd81a7fddda761309e0722",
-        "title": "Laggards"
+        "itemIndex": 4,
+        "body": "<p>There are always those who will only buy on the basis of price rather than improved or enhanced capability.</p>"
       }
     ],
-    "_narrativeLayout": "Full",
+    "_narrativeLayout": "Left",
     "_interactionLabel": {
       "_location": "before widget"
     },
@@ -5186,77 +5233,6 @@
     "title": "Who will be your early adopters?",
     "_type": "component",
     "_courseOrder": "3-2-0-0"
-  },
-  {
-    "_id": "596737571568f8e516392edf",
-    "_component": "graphic",
-    "_layout": "right",
-    "_courseId": "5967374c1568f8e516392e16",
-    "_parentId": "596737571568f8e516392ede",
-    "__v": 0,
-    "_refId": "58dbb80813b751d90c4ee47b",
-    "_graphic": {
-      "small": {
-        "_size": "small",
-        "_type": "image",
-        "_extension": "png",
-        "_id": "58dbb81313b751d90c4ee47c"
-      },
-      "_isExternalLink": false
-    },
-    "_graphicTextRightPadding": 0,
-    "_graphicTextLeftPadding": 0,
-    "_graphicTextBottomPadding": 0,
-    "_graphicTextTopPadding": 0,
-    "_contentWidth": 100,
-    "layout": "top",
-    "_shouldEnableGraphicText": false,
-    "_interactionLabel": {
-      "_location": "before widget"
-    },
-    "_isInteractionLabelEnabled": false,
-    "_isQuestionType": false,
-    "_tags": {
-      "_tagsList": [],
-      "_isEnabled": false
-    },
-    "_stamps": {
-      "_isEnabled": false
-    },
-    "_reflection": {
-      "_isEnabled": false
-    },
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_courseAttainment": {
-      "_isEnabled": false
-    },
-    "_courseAssessment": {
-      "_isEnabled": false
-    },
-    "_assignment": {
-      "feedback": "",
-      "_isCorrect": false,
-      "_isMarked": false,
-      "_isEnabled": false
-    },
-    "_badges": {
-      "_badgeIds": []
-    },
-    "_points": {
-      "_isEnabled": false
-    },
-    "_stars": {
-      "_isEnabled": false
-    },
-    "_links": {
-      "_isEnabled": false
-    },
-    "_classes": "",
-    "title": "Graphic Title",
-    "_type": "component",
-    "_courseOrder": "3-2-0-1"
   },
   {
     "_id": "596737551568f8e516392ec2",
@@ -5440,27 +5416,84 @@
     "_courseOrder": "3-4-0-0"
   },
   {
+    "_id": "598862907d86c20e2a40fb3b",
+    "_component": "text",
+    "_layout": "left",
+    "_courseId": "5967374c1568f8e516392e16",
+    "_parentId": "5988621c7d86c20e2a40fb39",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "598862907d86c20e2a40fb3b",
+    "body": "<p>As you manage multiple customers through multiple steps of the sales journey, it is important to stay organised.</p><p><br></p><p>A dashboard is a good way for you to decide what data to track and how to present it. </p><p><br></p><p>This is so you can get an instant snapshot of how you are doing with sales and where you need to focus your efforts.</p>",
+    "displayTitle": "Dashboards: What should you measure?&nbsp;",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Dashboards: What should you measure? ",
+    "_type": "component",
+    "_courseOrder": "3-5-0-0"
+  },
+  {
     "_id": "596737561568f8e516392ecf",
     "_component": "videoStream",
-    "_layout": "full",
+    "_layout": "right",
     "_courseId": "5967374c1568f8e516392e16",
-    "_parentId": "596737561568f8e516392ece",
+    "_parentId": "5988621c7d86c20e2a40fb39",
     "__v": 0,
     "_refId": "594b8e4df382c1d37dc8764b",
-    "body": "<p>As you manage multiple customers through multiple steps of the sales journey, it is important to stay organised. </p><p><br></p><p>A dashboard is a good way for you to decide what data to track and how to present it.&nbsp;</p><p><br></p><p>This is so you can get an instant snapshot of how you are doing with sales and where you need to focus your efforts.&nbsp;</p>",
+    "body": "<p><span style=\"font-size: 16px;\">&nbsp;</span><br></p>",
     "instruction": "",
-    "displayTitle": "Dashboards: What should you measure?&nbsp;",
+    "displayTitle": "",
     "_media": {
-      "_source": "<iframe src=\"https://player.vimeo.com/video/222497985\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
-      "_isLightTheme": false,
-      "_isAllowFullscreen": true,
-      "_isAutoHideControls": true,
-      "_isShowClosedCaptions": false,
-      "_isHD": true,
-      "_isKeyboardDisabled": false,
-      "_isLoop": false,
+      "_isAutoPlay": false,
       "_isShowRelated": false,
-      "_isAutoPlay": false
+      "_isLoop": false,
+      "_isKeyboardDisabled": false,
+      "_isHD": true,
+      "_isShowClosedCaptions": false,
+      "_isAutoHideControls": true,
+      "_isAllowFullscreen": true,
+      "_isLightTheme": false,
+      "_source": "<iframe src=\"https://player.vimeo.com/video/222497985\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
     },
     "_service": "vimeo",
     "_setCompletionOn": "inview",
@@ -5511,20 +5544,77 @@
       "_textAlign": "left",
       "_fontSize": ""
     },
-    "title": "Dashboards: What should you measure? ",
+    "title": "b",
     "_type": "component",
-    "_courseOrder": "3-5-0-0"
+    "_courseOrder": "3-5-0-1"
+  },
+  {
+    "_id": "598861a67d86c20e2a40fb36",
+    "_component": "text",
+    "_layout": "left",
+    "_courseId": "5967374c1568f8e516392e16",
+    "_parentId": "5988616d7d86c20e2a40fb35",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "598861a67d86c20e2a40fb36",
+    "body": "<p>Metrics should help you to make decisions. They are closely linked to revenue and profit. </p><p><br></p><p>For example, the number of active users, user engagement or customer acquisition costs (and ultimately revenues and profit).</p><p><br></p><p>Other metrics might be tempting because they are easier to grow and make you feel good! </p><p><br></p><p>For example, registered users, app downloads, and raw page views. These are called vanity metrics. </p><p><br></p><p>Good metrics not only help you to stay focused, they give you an insight into whether customers are responding well to your offer and whether your product needs changing.</p>",
+    "displayTitle": "Good metrics vs vanity metrics",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Good metrics vs vanity metrics",
+    "_type": "component",
+    "_courseOrder": "3-6-0-0"
   },
   {
     "_id": "596737571568f8e516392edc",
     "_component": "checklist",
-    "_layout": "full",
+    "_layout": "right",
     "_courseId": "5967374c1568f8e516392e16",
-    "_parentId": "596737571568f8e516392edb",
+    "_parentId": "5988616d7d86c20e2a40fb35",
     "__v": 0,
-    "displayTitle": "Good metrics vs vanity metrics",
+    "displayTitle": "",
     "_refId": "58dbcf70fddda761309e060c",
-    "body": "<p>Metrics should help you to make decisions. They are closely linked to revenue and profit.&nbsp;</p><p><br></p><p>For example, the number of active users, user engagement or customer acquisition costs (and ultimately revenues and profit).</p><p><br></p><p>Other metrics might be tempting because they are easier to grow and make you feel good!&nbsp;</p><p><br></p><p>For example, registered users, app downloads, and raw page views. These are called vanity metrics.&nbsp;</p><p><br></p><p>Good metrics not only help you to stay focused, they give you an insight into whether customers are responding well to your offer and whether your product needs changing. &nbsp;</p><p><br></p><p>Good metrics should be:</p>",
+    "body": "<p>Good metrics should be:<br></p>",
     "_items": [
       {
         "title": "Actionable<div><b><br></b>What will you do differently based on this information?&nbsp;</div>",
@@ -5591,7 +5681,7 @@
     },
     "title": "Good metrics vs vanity metrics",
     "_type": "component",
-    "_courseOrder": "3-6-0-0"
+    "_courseOrder": "3-6-0-1"
   },
   {
     "_id": "596737561568f8e516392ec6",
@@ -5688,7 +5778,7 @@
       "_isEnabled": true
     },
     "_courseAttainment": {
-      "_isEnabled": false
+      "_isEnabled": true
     },
     "_courseAssessment": {
       "_isEnabled": false
@@ -5716,7 +5806,7 @@
       "_textAlign": "left",
       "_fontSize": ""
     },
-    "title": "When to start selling",
+    "title": "T2C4Q1 When to start selling",
     "_type": "component",
     "_courseOrder": "3-8-0-0"
   },
@@ -5877,10 +5967,12 @@
       "_shouldUseGlobalCorrectFeedback": false,
       "_incorrect": {
         "_shouldUseGlobalIncorrectFeedback": false,
-        "final": "<p>Are you sure about that?</p><p><br></p><p>The sales process goes from  Prospecting to Cultivating, Positioning and Closing&nbsp;<br></p>"
+        "final": "<p><b>Are you sure about that?</b></p><p><br></p><p>The sales process goes from  Prospecting to Cultivating, Positioning and Closing&nbsp;<br></p>",
+        "notFinal": "<p><b>Are you sure about that?</b></p><p><br></p><p>The sales process goes from Prospecting to Cultivating, Positioning and Closing&nbsp;</p>"
       },
       "_partlyCorrect": {
-        "_shouldUseGlobalPartlyCorrectFeedback": false
+        "_shouldUseGlobalPartlyCorrectFeedback": false,
+        "notFinal": "<p><b>Are you sure about that?</b></p><p><br></p><p>The sales process goes from Prospecting to Cultivating, Positioning and Closing&nbsp;</p>"
       },
       "_correctGraphic": {
         "_position": "right"
@@ -5897,28 +5989,28 @@
       "_partlyCorrectNotFinalGraphic": {
         "_position": "right"
       },
-      "correct": "<p>That's right!&nbsp;</p><p><br></p><p>The sales process goes from &nbsp;prospecting to&nbsp;<span style=\"font-size: 16px;\">cultivating, positioning and closing.</span></p>"
+      "correct": "<p><b>That's right!&nbsp;</b></p><p><br></p><p>The sales process goes from &nbsp;prospecting to&nbsp;<span style=\"font-size: 16px;\">cultivating, positioning and closing.</span></p>"
     },
     "_items": [
       {
         "itemIndex": 0,
-        "_id": "58dbca7cfddda761309e05f9",
-        "text": "Prospecting:&nbsp;Identifying potential customers to target with sales and marketing message"
+        "_id": "598d95549d22de692fc7cc70",
+        "text": "Prospecting: Identifying potential customers to target with sales and marketing message"
       },
       {
         "itemIndex": 1,
-        "_id": "58dbca9ffddda761309e05fa",
-        "text": "Positioning:&nbsp;Checking that we understand the prospect's problem, for example through meetings. Explaining to prospective customers how our solution solves their problem"
+        "_id": "598d95629d22de692fc7cc71",
+        "text": "Cultivating:&nbsp;Explaining to prospective customers how our solution solves their problem"
       },
       {
         "itemIndex": 2,
-        "_id": "58dbcaa5fddda761309e05fb",
-        "text": "Cultivating:<b>&nbsp;</b>Explaining to prospective customers how our solution solves their problem"
+        "_id": "598d95779d22de692fc7cc72",
+        "text": "Positioning:&nbsp;Checking that we understand the prospect's problem, for example through meetings. Explaining to prospective customers how our solution solves their problem"
       },
       {
         "itemIndex": 3,
-        "_id": "58dbcaadfddda761309e05fc",
-        "text": "Closing:<b>&nbsp;</b>Converting a prospect into a customer and achieving a sale"
+        "_id": "598d95909d22de692fc7cc73",
+        "text": "Closing:&nbsp;Converting a prospect into a customer and achieving a sale"
       }
     ],
     "_shouldShowDisplayTitleInFeedback": true,
@@ -5944,7 +6036,7 @@
       "_isEnabled": true
     },
     "_courseAttainment": {
-      "_isEnabled": false
+      "_isEnabled": true
     },
     "_courseAssessment": {
       "_isEnabled": false
@@ -5972,7 +6064,7 @@
       "_textAlign": "left",
       "_fontSize": ""
     },
-    "title": "The sales process",
+    "title": "T2C4Q2 The sales process",
     "_type": "component",
     "_courseOrder": "3-9-0-1"
   },
@@ -5991,10 +6083,12 @@
       "_shouldUseGlobalCorrectFeedback": false,
       "_incorrect": {
         "_shouldUseGlobalIncorrectFeedback": false,
-        "final": "<p><b>Are you sure about that?&nbsp;</b></p><p><br></p><p>Good metrics are actionable, comparative, and understandable.<br></p>"
+        "final": "<p><b>Are you sure about that?&nbsp;</b></p><p><br></p><p>Good metrics are actionable, comparative, and understandable.<br></p>",
+        "notFinal": "<p><b>Are you sure about that? </b></p><p><br></p><p>Good metrics are actionable, comparative, and understandable.</p>"
       },
       "_partlyCorrect": {
-        "_shouldUseGlobalPartlyCorrectFeedback": false
+        "_shouldUseGlobalPartlyCorrectFeedback": false,
+        "notFinal": "<p><b>Are you sure about that? </b></p><p><br></p><p>Good metrics are actionable, comparative, and understandable.</p>"
       },
       "_correctGraphic": {
         "_position": "right"
@@ -6086,7 +6180,7 @@
       "_isEnabled": true
     },
     "_courseAttainment": {
-      "_isEnabled": false
+      "_isEnabled": true
     },
     "_courseAssessment": {
       "_isEnabled": false
@@ -6114,7 +6208,7 @@
       "_textAlign": "left",
       "_fontSize": ""
     },
-    "title": "Designing good metrics",
+    "title": "T2C4Q3 Designing good metrics",
     "_type": "component",
     "_courseOrder": "3-10-0-0"
   },
@@ -6837,7 +6931,7 @@
     "_shouldShowDisplayTitleInFeedback": true,
     "_shouldUseIndividualItemFeedback": false,
     "_useCustomItemPrefix": false,
-    "_selectable": 1,
+    "_selectable": 2,
     "_isRandom": true,
     "_shouldDisplayAttempts": false,
     "_attempts": 10,
@@ -6861,7 +6955,7 @@
       "_isEnabled": true
     },
     "_courseAttainment": {
-      "_isEnabled": false
+      "_isEnabled": true
     },
     "_courseAssessment": {
       "_isEnabled": false
@@ -6885,7 +6979,7 @@
       "_isEnabled": false
     },
     "_classes": "",
-    "title": "Register your company",
+    "title": "T2C5Q1 Register your company",
     "_type": "component",
     "_courseOrder": "4-6-0-0"
   },
@@ -6954,6 +7048,7 @@
     },
     "_isInteractionLabelEnabled": false,
     "_isQuestionType": true,
+    "placeholder": "Select your answer...",
     "_tags": {
       "_tagsList": [],
       "_isEnabled": false
@@ -6968,7 +7063,7 @@
       "_isEnabled": true
     },
     "_courseAttainment": {
-      "_isEnabled": false
+      "_isEnabled": true
     },
     "_courseAssessment": {
       "_isEnabled": false
@@ -6992,7 +7087,7 @@
       "_isEnabled": false
     },
     "_classes": "",
-    "title": "Divide equity between founders",
+    "title": "T2C5Q2 Divide equity between founders",
     "_type": "component",
     "_courseOrder": "4-7-0-0"
   },
@@ -7252,7 +7347,7 @@
       "_isEnabled": true
     },
     "_courseAttainment": {
-      "_isEnabled": false
+      "_isEnabled": true
     },
     "_courseAssessment": {
       "_isEnabled": false
@@ -7276,7 +7371,7 @@
       "_isEnabled": false
     },
     "_classes": "",
-    "title": "Directors responsibilities",
+    "title": "T2C5Q3 Directors responsibilities",
     "_type": "component",
     "_courseOrder": "4-8-0-1"
   },

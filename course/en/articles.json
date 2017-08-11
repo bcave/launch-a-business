@@ -315,7 +315,7 @@
     "_refId": "593920eb08a265827f217b48",
     "displayTitle": "Ready to be an employer?",
     "_progress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "_contentLocking": {
       "_lockedApperance": "default",
@@ -678,13 +678,13 @@
     "_courseOrder": "0-8"
   },
   {
-    "_id": "5967374e1568f8e516392e3b",
+    "_id": "598d70789d22de692fc7cc6c",
     "_sortOrder": 0,
     "_parentId": "5967374c1568f8e516392e19",
     "_courseId": "5967374c1568f8e516392e16",
     "__v": 0,
+    "_refId": "598d70789d22de692fc7cc6c",
     "displayTitle": "Here's how",
-    "_refId": "58dcdbfefddda761309e0635",
     "_progress": {
       "_isEnabled": true
     },
@@ -746,10 +746,6 @@
     },
     "_hasScrollActionButton": false,
     "_classes": "article-style-5",
-    "_displayTitleSettings": {
-      "_textAlign": "left",
-      "_fontSize": ""
-    },
     "title": "Here's how",
     "_type": "article",
     "_courseOrder": "1-0"
@@ -828,12 +824,12 @@
     "_courseOrder": "1-1"
   },
   {
-    "_id": "5967374f1568f8e516392e41",
+    "_id": "5967374f1568f8e516392e49",
     "_sortOrder": 2,
     "_parentId": "5967374c1568f8e516392e19",
     "_courseId": "5967374c1568f8e516392e16",
     "__v": 0,
-    "_refId": "591c46f202778c512a0aabc7",
+    "_refId": "5923fe0802778c512a0af1c0",
     "_progress": {
       "_isEnabled": true
     },
@@ -894,13 +890,13 @@
       "_size": "initial"
     },
     "_hasScrollActionButton": false,
-    "_classes": "none",
-    "title": "Founders' stories: Emma at Silkfred",
+    "_classes": "article-style-7",
+    "title": "Founder stories: Josh at Night Zookeeper",
     "_type": "article",
     "_courseOrder": "1-2"
   },
   {
-    "_id": "5967374f1568f8e516392e49",
+    "_id": "598c88b5abd446e07f9afc91",
     "_sortOrder": 3,
     "_parentId": "5967374c1568f8e516392e19",
     "_courseId": "5967374c1568f8e516392e16",
@@ -967,7 +963,7 @@
     },
     "_hasScrollActionButton": false,
     "_classes": "none",
-    "title": "Founders' stories: Josh at Night Zookeeper",
+    "title": "Founder stories: Josh at Night Zookeeper",
     "_type": "article",
     "_courseOrder": "1-3"
   },
@@ -1054,7 +1050,7 @@
     "_parentId": "5967374c1568f8e516392e19",
     "_courseId": "5967374c1568f8e516392e16",
     "__v": 0,
-    "displayTitle": "Make a pitch video",
+    "displayTitle": "",
     "_refId": "58d3aa0a13b751d90c4ed949",
     "_progress": {
       "_isEnabled": true
@@ -1128,7 +1124,7 @@
     "_courseId": "5967374c1568f8e516392e16",
     "__v": 0,
     "_refId": "591c477302778c512a0aabc9",
-    "displayTitle": "A pitch video example",
+    "displayTitle": "",
     "_progress": {
       "_isEnabled": true
     },
@@ -1432,7 +1428,7 @@
     "_refId": "593920eb08a265827f217b48",
     "displayTitle": "Got a plan for success?",
     "_progress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "_contentLocking": {
       "_lockedApperance": "default",
@@ -1919,10 +1915,10 @@
             "_shouldRepeat": false,
             "_height": 200,
             "src": {
-              "_id": "58ad7fa450d3bf600d233ae7",
-              "_extension": "png",
+              "_size": "large",
               "_type": "image",
-              "_size": "large"
+              "_extension": "png",
+              "_id": "58ad7fa450d3bf600d233ae7"
             }
           }
         },
@@ -1953,7 +1949,7 @@
       "_size": "initial"
     },
     "_hasScrollActionButton": false,
-    "_classes": "none",
+    "_classes": "article-style-7",
     "title": "Bootstrapping",
     "_type": "article",
     "_courseOrder": "2-1"
@@ -2175,7 +2171,7 @@
     },
     "_hasScrollActionButton": false,
     "_classes": "none",
-    "title": "Founders' stories: Raising your first pot of money",
+    "title": "Founder stories: Raising your first pot of money",
     "_type": "article",
     "_courseOrder": "2-4"
   },
@@ -2219,10 +2215,10 @@
             "_shouldRepeat": false,
             "_height": 200,
             "src": {
-              "_size": "large",
-              "_type": "image",
+              "_id": "58b6b5df6faa37e74495147c",
               "_extension": "jpeg",
-              "_id": "58b6b5df6faa37e74495147c"
+              "_type": "image",
+              "_size": "large"
             }
           }
         },
@@ -2253,7 +2249,7 @@
       "_size": "initial"
     },
     "_hasScrollActionButton": false,
-    "_classes": "none",
+    "_classes": "article-style-7",
     "title": "What do funders usually look for?",
     "_type": "article",
     "_courseOrder": "2-5"
@@ -2933,7 +2929,7 @@
       "_size": "initial"
     },
     "_hasScrollActionButton": false,
-    "_classes": "none",
+    "_classes": "article-style-7",
     "title": "Who will be your early adopters?",
     "_type": "article",
     "_courseOrder": "3-2"
@@ -3088,13 +3084,12 @@
     "_courseOrder": "3-4"
   },
   {
-    "_id": "596737561568f8e516392ecd",
+    "_id": "5988621c7d86c20e2a40fb38",
     "_sortOrder": 5,
     "_parentId": "596737551568f8e516392ebc",
     "_courseId": "5967374c1568f8e516392e16",
     "__v": 0,
-    "displayTitle": "",
-    "_refId": "58dbc7cffddda761309e05f0",
+    "_refId": "5988621c7d86c20e2a40fb38",
     "_progress": {
       "_isEnabled": true
     },
@@ -3125,13 +3120,7 @@
           },
           "_large": {
             "_shouldRepeat": false,
-            "_height": 200,
-            "src": {
-              "_size": "large",
-              "_type": "image",
-              "_extension": "jpeg",
-              "_id": "58b6b5df6faa37e74495147c"
-            }
+            "_height": 200
           }
         },
         "_isEnabled": false
@@ -3162,11 +3151,7 @@
     },
     "_hasScrollActionButton": false,
     "_classes": "none",
-    "_displayTitleSettings": {
-      "_textAlign": "left",
-      "_fontSize": ""
-    },
-    "title": "Dashboards: What should you measure? ",
+    "title": "New Article Title",
     "_type": "article",
     "_courseOrder": "3-5"
   },
@@ -3257,7 +3242,7 @@
     "_refId": "593920eb08a265827f217b48",
     "displayTitle": "Ready to win new customers?",
     "_progress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "_contentLocking": {
       "_lockedApperance": "default",
@@ -3710,7 +3695,7 @@
     "_parentId": "596737521568f8e516392e7c",
     "_sortOrder": 1,
     "__v": 0,
-    "displayTitle": "&nbsp;",
+    "displayTitle": "",
     "body": "",
     "_refId": "58d2536413b751d90c4ed7f5",
     "_progress": {
@@ -4018,7 +4003,7 @@
     "_refId": "593920eb08a265827f217b48",
     "displayTitle": "Ready to be a director?",
     "_progress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "_contentLocking": {
       "_lockedApperance": "default",
@@ -4095,7 +4080,7 @@
     "__v": 0,
     "body": "",
     "_refId": "58d2536513b751d90c4ed81b",
-    "displayTitle": "Register your company",
+    "displayTitle": "",
     "_progress": {
       "_isEnabled": true
     },
@@ -4168,7 +4153,7 @@
     "_courseId": "5967374c1568f8e516392e16",
     "__v": 0,
     "_refId": "58dd4fdcfddda761309e06ae",
-    "displayTitle": "Divide equity between founders",
+    "displayTitle": "",
     "_progress": {
       "_isEnabled": true
     },
@@ -4241,7 +4226,7 @@
     "_courseId": "5967374c1568f8e516392e16",
     "__v": 0,
     "_refId": "58dd4fe2fddda761309e06b0",
-    "displayTitle": "Directors responsibilities",
+    "displayTitle": "",
     "_progress": {
       "_isEnabled": true
     },

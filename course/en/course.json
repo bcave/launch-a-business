@@ -1,7 +1,7 @@
 {
   "_id": "5967374c1568f8e516392e16",
   "_createdAt": 1499936588023,
-  "_modifiedAt": 1501092400985,
+  "_modifiedAt": 1502451743585,
   "__v": 1,
   "_refId": "58d2536013b751d90c4ed711",
   "body": "",
@@ -113,54 +113,44 @@
     "title": "Progress",
     "_isEnabled": true
   },
-  "_courseNavigation": {
-    "courseNavigationSidebarAriaLabel": "Tab to move through the course items",
-    "courseNavigationAriaLabel": "Select this button to toggle the course navigation sidebar",
-    "_isOnRightSide": false,
-    "icon": "document2",
-    "homeText": "Home",
-    "_isEnabled": true
+  "_courseAttainment": {
+    "closeWindowText": "Close window",
+    "_shouldUseCorrectQuestions": false,
+    "_shouldCloseWindowOnCourseAttained": true,
+    "_shouldHideSummaryAndIcon": true,
+    "completionNotifyTitle": "Course attained",
+    "completionTitle": "Course attained",
+    "_attainmentMethod": "components",
+    "_isEnabled": true,
+    "title": "Course Attainment"
   },
-  "_certificate": {
-    "_orientation": "portrait",
-    "_graphic": {
-      "_id": "58b6b30d6faa37e744951475",
-      "_extension": "png",
-      "_type": "image"
+  "_branding": {
+    "copyright": "<p style=\"text-align: center;\"><a href=\"http://www.digitalbusinessacademyuk.com/terms-conditions\" target=\"_blank\">Terms</a>    <a href=\"http://www.digitalbusinessacademyuk.com/privacy-policy\" target=\"_blank\">Privacy</a>    <a href=\"http://www.digitalbusinessacademyuk.com/faqs\" target=\"_blank\">FAQs</a></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">2017 Tech City UK ©</p>",
+    "_shouldPlaceFooterLogosWithCopyright": true,
+    "_logos": {
+      "_secondaryLogo": {
+        "_isLocatedInFooter": true,
+        "alignment": "center",
+        "src": {
+          "_id": "598c3250abd446e07f9af8c7",
+          "_extension": "png",
+          "_type": "image"
+        }
+      },
+      "_primaryLogo": {
+        "_isLocatedInFooter": false,
+        "alignment": "left",
+        "src": ""
+      }
     },
-    "_secondaryLogo": {
-      "_id": "58b6b40e6faa37e74495147a",
-      "_extension": "png",
-      "_type": "image"
-    },
-    "_primaryLogo": {
-      "_id": "58b0376a6faa37e7449513a9",
-      "_extension": "png",
-      "_type": "image"
-    },
-    "dateLabel": "Date awarded:",
-    "nameLabel": "Name:",
-    "downloadButtonText": "Download certificate",
-    "notAchievedText": "You have not yet achieved the course certificate",
-    "achievedText": "You have achieved the course certificate, click download certificate",
-    "title": "Certificate of completion: Size up your idea",
-    "_obtainmentMethod": "Course Assessment Passed",
-    "_isComplete": false,
-    "_isEnabled": true
-  },
-  "_bookmarking": {
-    "_notificationCancel": "No",
-    "_notificationConfirm": "Yes",
-    "_notificationBody": "Do you want to continue the course?",
-    "_notificationTitle": "This course is in progress",
     "_isEnabled": true
   },
   "_achievements": {
     "_badges": {
       "_items": [
         {
-          "itemIndex": 0,
           "_id": "58b035ec6faa37e7449513a8",
+          "itemIndex": 0,
           "_badgeCompletionType": "components"
         }
       ],
@@ -184,11 +174,11 @@
     },
     "_points": {
       "_defaultPoints": 50,
-      "pointsLabel": "Reward Points Unlocked",
+      "pointsLabel": "Reward Points",
       "pointsName": "Reward Points",
       "_isEnabled": true
     },
-    "title": "Achievements",
+    "title": "Rewards",
     "_isEnabled": true
   },
   "_pageBackgroundImage": {
