@@ -1,1812 +1,9 @@
 [
   {
-    "_id": "596737551568f8e516392eb3",
+    "_id": "5996c8d3d1ce4b5f6804886e",
     "_sortOrder": 0,
-    "_parentId": "596737531568f8e516392e9d",
-    "_courseId": "5967374c1568f8e516392e16",
-    "__v": 0,
-    "displayTitle": "Here's how",
-    "body": "",
-    "_refId": "58d3c2ad13b751d90c4ed984",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "article-style-5",
-    "title": "Here's how",
-    "_type": "article",
-    "_courseOrder": "0-0"
-  },
-  {
-    "_id": "596737541568f8e516392eac",
-    "_sortOrder": 1,
-    "_parentId": "596737531568f8e516392e9d",
-    "_courseId": "5967374c1568f8e516392e16",
-    "__v": 0,
-    "displayTitle": "",
-    "body": "<p></p><div><br></div><p></p>",
-    "_refId": "58d2536713b751d90c4ed86a",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "title": "Mentors and advisors",
-    "_type": "article",
-    "_courseOrder": "0-1"
-  },
-  {
-    "_id": "596737531568f8e516392e9e",
-    "_courseId": "5967374c1568f8e516392e16",
-    "_parentId": "596737531568f8e516392e9d",
-    "_sortOrder": 2,
-    "__v": 0,
-    "displayTitle": "",
-    "_refId": "58d2536613b751d90c4ed83c",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200,
-            "src": {
-              "_id": "58ad7fa450d3bf600d233ae7",
-              "_extension": "png",
-              "_type": "image",
-              "_size": "large"
-            }
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "title": "Build your team",
-    "_type": "article",
-    "_courseOrder": "0-2"
-  },
-  {
-    "_id": "596737541568f8e516392ea1",
-    "_sortOrder": 3,
-    "_parentId": "596737531568f8e516392e9d",
-    "_courseId": "5967374c1568f8e516392e16",
-    "__v": 0,
-    "displayTitle": "",
-    "body": "",
-    "_refId": "58d2536613b751d90c4ed83f",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200,
-            "src": {
-              "_size": "large",
-              "_type": "image",
-              "_extension": "jpeg",
-              "_id": "58b6b5df6faa37e74495147c"
-            }
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "title": "The responsibilities of an employer",
-    "_type": "article",
-    "_courseOrder": "0-3"
-  },
-  {
-    "_id": "596737551568f8e516392eba",
-    "_sortOrder": 4,
-    "_parentId": "596737531568f8e516392e9d",
-    "_courseId": "5967374c1568f8e516392e16",
-    "__v": 0,
-    "_refId": "593920eb08a265827f217b48",
-    "displayTitle": "Ready to be an employer?",
-    "_progress": {
-      "_isEnabled": false
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "cover",
-      "src": {
-        "_type": "image",
-        "_extension": "jpeg",
-        "_id": "595628b8ef64ffa15e2f1e24"
-      }
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "title": "Ready to be an employer?",
-    "_type": "article",
-    "_courseOrder": "0-4"
-  },
-  {
-    "_id": "596737541568f8e516392ea4",
-    "_sortOrder": 5,
-    "_parentId": "596737531568f8e516392e9d",
-    "_courseId": "5967374c1568f8e516392e16",
-    "__v": 0,
-    "_refId": "58d2536713b751d90c4ed85b",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "title": "Mentors and advisers",
-    "_type": "article",
-    "_courseOrder": "0-5"
-  },
-  {
-    "_id": "596737551568f8e516392eb6",
-    "_sortOrder": 6,
-    "_parentId": "596737531568f8e516392e9d",
-    "_courseId": "5967374c1568f8e516392e16",
-    "__v": 0,
-    "_refId": "58dd43ebfddda761309e068b",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "_displayTitleSettings": {
-      "_textAlign": "left",
-      "_fontSize": ""
-    },
-    "title": "Hire the right candidates",
-    "_type": "article",
-    "_courseOrder": "0-6"
-  },
-  {
-    "_id": "596737541568f8e516392ea8",
-    "_sortOrder": 7,
-    "_parentId": "596737531568f8e516392e9d",
-    "_courseId": "5967374c1568f8e516392e16",
-    "__v": 0,
-    "_refId": "58d2536713b751d90c4ed865",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "title": "Be a compliant employer",
-    "_type": "article",
-    "_courseOrder": "0-7"
-  },
-  {
-    "_id": "596737541568f8e516392eb0",
-    "_sortOrder": 8,
-    "_parentId": "596737531568f8e516392e9d",
-    "_courseId": "5967374c1568f8e516392e16",
-    "__v": 0,
-    "_refId": "58d2536713b751d90c4ed86f",
-    "displayTitle": "Build a winning team. Let's wrap it up",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "article-style-4",
-    "title": "Build a winning team. Let's wrap it up",
-    "_type": "article",
-    "_courseOrder": "0-8"
-  },
-  {
-    "_id": "598d70789d22de692fc7cc6c",
-    "_sortOrder": 0,
-    "_parentId": "5967374c1568f8e516392e19",
-    "_courseId": "5967374c1568f8e516392e16",
-    "__v": 0,
-    "_refId": "598d70789d22de692fc7cc6c",
-    "displayTitle": "Here's how",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "article-style-5",
-    "title": "Here's how",
-    "_type": "article",
-    "_courseOrder": "1-0"
-  },
-  {
-    "_id": "5967374d1568f8e516392e21",
-    "_sortOrder": 1,
-    "_parentId": "5967374c1568f8e516392e19",
-    "_courseId": "5967374c1568f8e516392e16",
-    "__v": 0,
-    "displayTitle": "",
-    "_refId": "58d2536113b751d90c4ed74f",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "title": "Is this idea worth investigating?",
-    "_type": "article",
-    "_courseOrder": "1-1"
-  },
-  {
-    "_id": "5967374f1568f8e516392e49",
-    "_sortOrder": 2,
-    "_parentId": "5967374c1568f8e516392e19",
-    "_courseId": "5967374c1568f8e516392e16",
-    "__v": 0,
-    "_refId": "5923fe0802778c512a0af1c0",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "article-style-7",
-    "title": "Founder stories: Josh at Night Zookeeper",
-    "_type": "article",
-    "_courseOrder": "1-2"
-  },
-  {
-    "_id": "598c88b5abd446e07f9afc91",
-    "_sortOrder": 3,
-    "_parentId": "5967374c1568f8e516392e19",
-    "_courseId": "5967374c1568f8e516392e16",
-    "__v": 0,
-    "_refId": "5923fe0802778c512a0af1c0",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "title": "Founder stories: Josh at Night Zookeeper",
-    "_type": "article",
-    "_courseOrder": "1-3"
-  },
-  {
-    "_id": "5967374c1568f8e516392e1a",
-    "_sortOrder": 4,
-    "_parentId": "5967374c1568f8e516392e19",
-    "_courseId": "5967374c1568f8e516392e16",
-    "__v": 0,
-    "displayTitle": "",
-    "_refId": "58d2536113b751d90c4ed723",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": true
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "_displayTitleSettings": {
-      "_textAlign": "left",
-      "_fontSize": ""
-    },
-    "title": "Plan a solid offer for customers",
-    "_type": "article",
-    "_courseOrder": "1-4"
-  },
-  {
-    "_id": "5967374d1568f8e516392e29",
-    "_sortOrder": 5,
-    "_parentId": "5967374c1568f8e516392e19",
-    "_courseId": "5967374c1568f8e516392e16",
-    "__v": 0,
-    "displayTitle": "",
-    "_refId": "58d3aa0a13b751d90c4ed949",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "title": "Make a pitch video",
-    "_type": "article",
-    "_courseOrder": "1-5"
-  },
-  {
-    "_id": "5967374f1568f8e516392e45",
-    "_sortOrder": 6,
-    "_parentId": "5967374c1568f8e516392e19",
-    "_courseId": "5967374c1568f8e516392e16",
-    "__v": 0,
-    "_refId": "591c477302778c512a0aabc9",
-    "displayTitle": "",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "title": "A pitch video example",
-    "_type": "article",
-    "_courseOrder": "1-6"
-  },
-  {
-    "_id": "5967374d1568f8e516392e2d",
-    "_sortOrder": 7,
-    "_parentId": "5967374c1568f8e516392e19",
-    "_courseId": "5967374c1568f8e516392e16",
-    "__v": 0,
-    "displayTitle": "",
-    "_refId": "58d3aa1b13b751d90c4ed94b",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "title": "A simple landing page or website",
-    "_type": "article",
-    "_courseOrder": "1-7"
-  },
-  {
-    "_id": "5967374e1568f8e516392e31",
-    "_sortOrder": 8,
-    "_parentId": "5967374c1568f8e516392e19",
-    "_courseId": "5967374c1568f8e516392e16",
-    "__v": 0,
-    "displayTitle": "",
-    "_refId": "58d3aa2913b751d90c4ed94d",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "article-style-7",
-    "_displayTitleSettings": {
-      "_textAlign": "left",
-      "_fontSize": ""
-    },
-    "title": "Create promotional materials",
-    "_type": "article",
-    "_courseOrder": "1-8"
-  },
-  {
-    "_id": "5967374d1568f8e516392e1e",
-    "_sortOrder": 9,
-    "_parentId": "5967374c1568f8e516392e19",
-    "_courseId": "5967374c1568f8e516392e16",
-    "__v": 0,
-    "displayTitle": "<br>",
-    "_refId": "58d2536113b751d90c4ed728",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": true
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200,
-            "src": {
-              "_id": "58b6b5df6faa37e74495147c",
-              "_extension": "jpeg",
-              "_type": "image",
-              "_size": "large"
-            }
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "article-style-7",
-    "title": "Plan a solid offer for business partners",
-    "_type": "article",
-    "_courseOrder": "1-9"
-  },
-  {
-    "_id": "5967374f1568f8e516392e4d",
-    "_sortOrder": 10,
-    "_parentId": "5967374c1568f8e516392e19",
-    "_courseId": "5967374c1568f8e516392e16",
-    "__v": 0,
-    "_refId": "593920eb08a265827f217b48",
-    "displayTitle": "Got a plan for success?",
-    "_progress": {
-      "_isEnabled": false
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "cover",
-      "src": {
-        "_type": "image",
-        "_extension": "jpeg",
-        "_id": "595628b8ef64ffa15e2f1e24"
-      }
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "_displayTitleSettings": {
-      "_textAlign": "left",
-      "_fontSize": ""
-    },
-    "title": "Got a plan for success?",
-    "_type": "article",
-    "_courseOrder": "1-10"
-  },
-  {
-    "_id": "5967374d1568f8e516392e25",
-    "_sortOrder": 11,
-    "_parentId": "5967374c1568f8e516392e19",
-    "_courseId": "5967374c1568f8e516392e16",
-    "__v": 0,
-    "displayTitle": "",
-    "body": "",
-    "_refId": "58d27b5613b751d90c4ed913",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200,
-            "src": {
-              "_size": "large",
-              "_type": "image",
-              "_extension": "jpeg",
-              "_id": "58b6b5df6faa37e74495147c"
-            }
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "_displayTitleSettings": {
-      "_textAlign": "left",
-      "_fontSize": ""
-    },
-    "title": "Clarify your idea",
-    "_type": "article",
-    "_courseOrder": "1-11"
-  },
-  {
-    "_id": "5967374e1568f8e516392e34",
-    "_sortOrder": 12,
-    "_parentId": "5967374c1568f8e516392e19",
-    "_courseId": "5967374c1568f8e516392e16",
-    "__v": 0,
-    "_refId": "58dcd9fefddda761309e0631",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "title": "Customer materials",
-    "_type": "article",
-    "_courseOrder": "1-12"
-  },
-  {
-    "_id": "5967374e1568f8e516392e37",
-    "_sortOrder": 13,
-    "_parentId": "5967374c1568f8e516392e19",
-    "_courseId": "5967374c1568f8e516392e16",
-    "__v": 0,
-    "_refId": "58dcda1efddda761309e0633",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "title": "Business plans",
-    "_type": "article",
-    "_courseOrder": "1-13"
-  },
-  {
-    "_id": "5967374e1568f8e516392e3e",
-    "_sortOrder": 14,
-    "_parentId": "5967374c1568f8e516392e19",
-    "_courseId": "5967374c1568f8e516392e16",
-    "__v": 0,
-    "_refId": "58dd340ffddda761309e065b",
-    "displayTitle": "Make a detailed plan. Let's wrap it up",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "article-style-4",
-    "title": "Make a detailed plan. Let's wrap it up",
-    "_type": "article",
-    "_courseOrder": "1-14"
-  },
-  {
-    "_id": "596737501568f8e516392e5e",
-    "_sortOrder": 0,
-    "_parentId": "5967374f1568f8e516392e4f",
-    "_courseId": "5967374c1568f8e516392e16",
+    "_parentId": "5996c8d3d1ce4b5f6804885f",
+    "_courseId": "5996c8d2d1ce4b5f68048826",
     "__v": 0,
     "displayTitle": "Make a little go a long way!",
     "_refId": "58d2536213b751d90c4ed793",
@@ -1873,392 +70,13 @@
     "_classes": "article-style-5",
     "title": "Make a little go a long way!",
     "_type": "article",
-    "_courseOrder": "2-0"
+    "_courseOrder": "0-0"
   },
   {
-    "_id": "5967374f1568f8e516392e50",
-    "_courseId": "5967374c1568f8e516392e16",
-    "_parentId": "5967374f1568f8e516392e4f",
+    "_id": "5996c8d3d1ce4b5f6804888c",
     "_sortOrder": 1,
-    "__v": 0,
-    "displayTitle": "",
-    "_refId": "58d2536213b751d90c4ed767",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200,
-            "src": {
-              "_size": "large",
-              "_type": "image",
-              "_extension": "png",
-              "_id": "58ad7fa450d3bf600d233ae7"
-            }
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "article-style-7",
-    "title": "Bootstrapping",
-    "_type": "article",
-    "_courseOrder": "2-1"
-  },
-  {
-    "_id": "5967374f1568f8e516392e53",
-    "_sortOrder": 2,
-    "_parentId": "5967374f1568f8e516392e4f",
-    "_courseId": "5967374c1568f8e516392e16",
-    "__v": 0,
-    "body": "",
-    "_refId": "58d2536213b751d90c4ed76a",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "title": "Different types of early funding",
-    "_type": "article",
-    "_courseOrder": "2-2"
-  },
-  {
-    "_id": "596737511568f8e516392e6c",
-    "_sortOrder": 3,
-    "_parentId": "5967374f1568f8e516392e4f",
-    "_courseId": "5967374c1568f8e516392e16",
-    "__v": 0,
-    "_refId": "591c490702778c512a0aabcb",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "_displayTitleSettings": {
-      "_textAlign": "left",
-      "_fontSize": ""
-    },
-    "title": "Types of growth funds",
-    "_type": "article",
-    "_courseOrder": "2-3"
-  },
-  {
-    "_id": "596737511568f8e516392e70",
-    "_sortOrder": 4,
-    "_parentId": "5967374f1568f8e516392e4f",
-    "_courseId": "5967374c1568f8e516392e16",
-    "__v": 0,
-    "_refId": "591c495e02778c512a0aabcd",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "title": "Founder stories: Raising your first pot of money",
-    "_type": "article",
-    "_courseOrder": "2-4"
-  },
-  {
-    "_id": "596737501568f8e516392e57",
-    "_sortOrder": 5,
-    "_parentId": "5967374f1568f8e516392e4f",
-    "_courseId": "5967374c1568f8e516392e16",
-    "__v": 0,
-    "displayTitle": "",
-    "_refId": "58d2536213b751d90c4ed76f",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200,
-            "src": {
-              "_id": "58b6b5df6faa37e74495147c",
-              "_extension": "jpeg",
-              "_type": "image",
-              "_size": "large"
-            }
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "article-style-7",
-    "title": "What do funders usually look for?",
-    "_type": "article",
-    "_courseOrder": "2-5"
-  },
-  {
-    "_id": "596737511568f8e516392e73",
-    "_sortOrder": 6,
-    "_parentId": "5967374f1568f8e516392e4f",
-    "_courseId": "5967374c1568f8e516392e16",
+    "_parentId": "5996c8d3d1ce4b5f6804885f",
+    "_courseId": "5996c8d2d1ce4b5f68048826",
     "__v": 0,
     "_refId": "591c4c0702778c512a0aabcf",
     "displayTitle": "",
@@ -2335,13 +153,475 @@
     },
     "title": "Dragon's Den: Investment in action",
     "_type": "article",
-    "_courseOrder": "2-6"
+    "_courseOrder": "0-1"
   },
   {
-    "_id": "596737521568f8e516392e7a",
+    "_id": "5996c8d3d1ce4b5f68048860",
+    "_courseId": "5996c8d2d1ce4b5f68048826",
+    "_parentId": "5996c8d3d1ce4b5f6804885f",
+    "_sortOrder": 2,
+    "__v": 0,
+    "displayTitle": "",
+    "_refId": "58d2536213b751d90c4ed767",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200,
+            "src": {
+              "_size": "large",
+              "_type": "image",
+              "_extension": "png",
+              "_id": "58ad7fa450d3bf600d233ae7"
+            }
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-7",
+    "title": "Bootstrapping",
+    "_type": "article",
+    "_courseOrder": "0-2"
+  },
+  {
+    "_id": "5996c8d3d1ce4b5f68048863",
+    "_sortOrder": 3,
+    "_parentId": "5996c8d3d1ce4b5f6804885f",
+    "_courseId": "5996c8d2d1ce4b5f68048826",
+    "__v": 0,
+    "body": "",
+    "_refId": "58d2536213b751d90c4ed76a",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Different types of early funding",
+    "_type": "article",
+    "_courseOrder": "0-3"
+  },
+  {
+    "_id": "5996c8d3d1ce4b5f6804887c",
+    "_sortOrder": 4,
+    "_parentId": "5996c8d3d1ce4b5f6804885f",
+    "_courseId": "5996c8d2d1ce4b5f68048826",
+    "__v": 0,
+    "_refId": "591c490702778c512a0aabcb",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "_displayTitleSettings": {
+      "_textAlign": "left",
+      "_fontSize": ""
+    },
+    "title": "Types of growth funds",
+    "_type": "article",
+    "_courseOrder": "0-4"
+  },
+  {
+    "_id": "5996c8d3d1ce4b5f68048880",
+    "_sortOrder": 5,
+    "_parentId": "5996c8d3d1ce4b5f6804885f",
+    "_courseId": "5996c8d2d1ce4b5f68048826",
+    "__v": 0,
+    "_refId": "591c495e02778c512a0aabcd",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Founder stories: Raising your first pot of money",
+    "_type": "article",
+    "_courseOrder": "0-5"
+  },
+  {
+    "_id": "5996c8d3d1ce4b5f68048867",
+    "_sortOrder": 6,
+    "_parentId": "5996c8d3d1ce4b5f6804885f",
+    "_courseId": "5996c8d2d1ce4b5f68048826",
+    "__v": 0,
+    "displayTitle": "",
+    "_refId": "58d2536213b751d90c4ed76f",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200,
+            "src": {
+              "_id": "58b6b5df6faa37e74495147c",
+              "_extension": "jpeg",
+              "_type": "image",
+              "_size": "large"
+            }
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-7",
+    "title": "What do funders usually look for?",
+    "_type": "article",
+    "_courseOrder": "0-6"
+  },
+  {
+    "_id": "5996c8d3d1ce4b5f68048883",
     "_sortOrder": 7,
-    "_parentId": "5967374f1568f8e516392e4f",
-    "_courseId": "5967374c1568f8e516392e16",
+    "_parentId": "5996c8d3d1ce4b5f6804885f",
+    "_courseId": "5996c8d2d1ce4b5f68048826",
+    "__v": 0,
+    "_refId": "591c4c0702778c512a0aabcf",
+    "displayTitle": "",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200,
+            "src": {
+              "_id": "58b6b5df6faa37e74495147c",
+              "_extension": "jpeg",
+              "_type": "image",
+              "_size": "large"
+            }
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "_displayTitleSettings": {
+      "_textAlign": "left",
+      "_fontSize": ""
+    },
+    "title": "Dragon's Den: Investment in action",
+    "_type": "article",
+    "_courseOrder": "0-7"
+  },
+  {
+    "_id": "5996c8d3d1ce4b5f6804888a",
+    "_sortOrder": 8,
+    "_parentId": "5996c8d3d1ce4b5f6804885f",
+    "_courseId": "5996c8d2d1ce4b5f68048826",
     "__v": 0,
     "_refId": "593920eb08a265827f217b48",
     "displayTitle": "Got your dragon by the tail?",
@@ -2404,26 +684,26 @@
       "_position": "center",
       "_size": "cover",
       "src": {
-        "_type": "image",
+        "_id": "595628b8ef64ffa15e2f1e24",
         "_extension": "jpeg",
-        "_id": "595628b8ef64ffa15e2f1e24"
+        "_type": "image"
       }
     },
     "_hasScrollActionButton": false,
-    "_classes": "none",
+    "_classes": "article-style-8",
     "_displayTitleSettings": {
-      "_textAlign": "left",
-      "_fontSize": ""
+      "_fontSize": "",
+      "_textAlign": "left"
     },
     "title": "Got your dragon by the tail?",
     "_type": "article",
-    "_courseOrder": "2-7"
+    "_courseOrder": "0-8"
   },
   {
-    "_id": "596737501568f8e516392e5a",
-    "_sortOrder": 8,
-    "_parentId": "5967374f1568f8e516392e4f",
-    "_courseId": "5967374c1568f8e516392e16",
+    "_id": "5996c8d3d1ce4b5f6804886a",
+    "_sortOrder": 9,
+    "_parentId": "5996c8d3d1ce4b5f6804885f",
+    "_courseId": "5996c8d2d1ce4b5f68048826",
     "__v": 0,
     "displayTitle": "",
     "_refId": "58d2536213b751d90c4ed780",
@@ -2490,13 +770,13 @@
     "_classes": "none",
     "title": "Bootstrapping",
     "_type": "article",
-    "_courseOrder": "2-8"
+    "_courseOrder": "0-9"
   },
   {
-    "_id": "596737501568f8e516392e64",
-    "_sortOrder": 9,
-    "_parentId": "5967374f1568f8e516392e4f",
-    "_courseId": "5967374c1568f8e516392e16",
+    "_id": "5996c8d3d1ce4b5f68048874",
+    "_sortOrder": 10,
+    "_parentId": "5996c8d3d1ce4b5f6804885f",
+    "_courseId": "5996c8d2d1ce4b5f68048826",
     "__v": 0,
     "_refId": "58dd4a26fddda761309e069e",
     "_progress": {
@@ -2562,13 +842,13 @@
     "_classes": "none",
     "title": "Funding types",
     "_type": "article",
-    "_courseOrder": "2-9"
+    "_courseOrder": "0-10"
   },
   {
-    "_id": "596737511568f8e516392e68",
-    "_sortOrder": 10,
-    "_parentId": "5967374f1568f8e516392e4f",
-    "_courseId": "5967374c1568f8e516392e16",
+    "_id": "5996c8d3d1ce4b5f68048878",
+    "_sortOrder": 11,
+    "_parentId": "5996c8d3d1ce4b5f6804885f",
+    "_courseId": "5996c8d2d1ce4b5f68048826",
     "__v": 0,
     "_refId": "58dd4a45fddda761309e06a0",
     "_progress": {
@@ -2634,13 +914,13 @@
     "_classes": "none",
     "title": "What investors look for in a business",
     "_type": "article",
-    "_courseOrder": "2-10"
+    "_courseOrder": "0-11"
   },
   {
-    "_id": "596737501568f8e516392e61",
-    "_sortOrder": 11,
-    "_parentId": "5967374f1568f8e516392e4f",
-    "_courseId": "5967374c1568f8e516392e16",
+    "_id": "5996c8d3d1ce4b5f68048871",
+    "_sortOrder": 12,
+    "_parentId": "5996c8d3d1ce4b5f6804885f",
+    "_courseId": "5996c8d2d1ce4b5f68048826",
     "__v": 0,
     "_refId": "58d2536213b751d90c4ed799",
     "displayTitle": "Launch your product on a shoestring. Let's wrap it up",
@@ -2711,1658 +991,6 @@
     },
     "title": "Launch your product on a shoestring. Let's wrap it up",
     "_type": "article",
-    "_courseOrder": "2-11"
-  },
-  {
-    "_id": "596737561568f8e516392ec7",
-    "_sortOrder": 0,
-    "_parentId": "596737551568f8e516392ebc",
-    "_courseId": "5967374c1568f8e516392e16",
-    "__v": 0,
-    "_refId": "58d2536913b751d90c4ed8b2",
-    "displayTitle": "Look in all the right places",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "article-style-5",
-    "_displayTitleSettings": {
-      "_textAlign": "left",
-      "_fontSize": ""
-    },
-    "title": "Look in all the right places",
-    "_type": "article",
-    "_courseOrder": "3-0"
-  },
-  {
-    "_id": "596737551568f8e516392ebd",
-    "_sortOrder": 1,
-    "_parentId": "596737551568f8e516392ebc",
-    "_courseId": "5967374c1568f8e516392e16",
-    "__v": 0,
-    "_refId": "58d2536813b751d90c4ed889",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "title": "Who should be your first customers?",
-    "_type": "article",
-    "_courseOrder": "3-1"
-  },
-  {
-    "_id": "596737571568f8e516392edd",
-    "_sortOrder": 2,
-    "_parentId": "596737551568f8e516392ebc",
-    "_courseId": "5967374c1568f8e516392e16",
-    "__v": 0,
-    "_refId": "591c4caa02778c512a0aabd3",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "article-style-7",
-    "title": "Who will be your early adopters?",
-    "_type": "article",
-    "_courseOrder": "3-2"
-  },
-  {
-    "_id": "596737551568f8e516392ec0",
-    "_sortOrder": 3,
-    "_parentId": "596737551568f8e516392ebc",
-    "_courseId": "5967374c1568f8e516392e16",
-    "__v": 0,
-    "_refId": "58d2536813b751d90c4ed895",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "_displayTitleSettings": {
-      "_textAlign": "left",
-      "_fontSize": ""
-    },
-    "title": "Sales as a process: the Funnel",
-    "_type": "article",
-    "_courseOrder": "3-3"
-  },
-  {
-    "_id": "596737561568f8e516392ed7",
-    "_sortOrder": 4,
-    "_parentId": "596737551568f8e516392ebc",
-    "_courseId": "5967374c1568f8e516392e16",
-    "__v": 0,
-    "_refId": "591b688a02778c512a0aa9dd",
-    "displayTitle": "",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "title": "Moving customers through the funnel",
-    "_type": "article",
-    "_courseOrder": "3-4"
-  },
-  {
-    "_id": "5988621c7d86c20e2a40fb38",
-    "_sortOrder": 5,
-    "_parentId": "596737551568f8e516392ebc",
-    "_courseId": "5967374c1568f8e516392e16",
-    "__v": 0,
-    "_refId": "5988621c7d86c20e2a40fb38",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "title": "New Article Title",
-    "_type": "article",
-    "_courseOrder": "3-5"
-  },
-  {
-    "_id": "596737571568f8e516392eda",
-    "_sortOrder": 6,
-    "_parentId": "596737551568f8e516392ebc",
-    "_courseId": "5967374c1568f8e516392e16",
-    "__v": 0,
-    "_refId": "591b6bd602778c512a0aa9e0",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200,
-            "src": {
-              "_id": "58b6b5df6faa37e74495147c",
-              "_extension": "jpeg",
-              "_type": "image",
-              "_size": "large"
-            }
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "title": "Good metrics vs vanity metrics",
-    "_type": "article",
-    "_courseOrder": "3-6"
-  },
-  {
-    "_id": "596737571568f8e516392ee1",
-    "_sortOrder": 7,
-    "_parentId": "596737551568f8e516392ebc",
-    "_courseId": "5967374c1568f8e516392e16",
-    "__v": 0,
-    "_refId": "593920eb08a265827f217b48",
-    "displayTitle": "Ready to win new customers?",
-    "_progress": {
-      "_isEnabled": false
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "cover",
-      "src": {
-        "_type": "image",
-        "_extension": "jpeg",
-        "_id": "595628b8ef64ffa15e2f1e24"
-      }
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "title": "Ready to win new customers?",
-    "_type": "article",
-    "_courseOrder": "3-7"
-  },
-  {
-    "_id": "596737551568f8e516392ec3",
-    "_sortOrder": 8,
-    "_parentId": "596737551568f8e516392ebc",
-    "_courseId": "5967374c1568f8e516392e16",
-    "__v": 0,
-    "_refId": "58d2536913b751d90c4ed8a8",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "_displayTitleSettings": {
-      "_textAlign": "left",
-      "_fontSize": ""
-    },
-    "title": "When to start selling",
-    "_type": "article",
-    "_courseOrder": "3-8"
-  },
-  {
-    "_id": "596737561568f8e516392ed0",
-    "_sortOrder": 9,
-    "_parentId": "596737551568f8e516392ebc",
-    "_courseId": "5967374c1568f8e516392e16",
-    "__v": 0,
-    "_refId": "58dbca3dfddda761309e05f6",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "_displayTitleSettings": {
-      "_textAlign": "left",
-      "_fontSize": ""
-    },
-    "title": "The sales process",
-    "_type": "article",
-    "_courseOrder": "3-9"
-  },
-  {
-    "_id": "596737561568f8e516392ed4",
-    "_sortOrder": 10,
-    "_parentId": "596737551568f8e516392ebc",
-    "_courseId": "5967374c1568f8e516392e16",
-    "__v": 0,
-    "_refId": "58dbccc8fddda761309e0600",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "_displayTitleSettings": {
-      "_textAlign": "left",
-      "_fontSize": ""
-    },
-    "title": "Designing good metrics",
-    "_type": "article",
-    "_courseOrder": "3-10"
-  },
-  {
-    "_id": "596737561568f8e516392eca",
-    "_sortOrder": 11,
-    "_parentId": "596737551568f8e516392ebc",
-    "_courseId": "5967374c1568f8e516392e16",
-    "__v": 0,
-    "_refId": "58d2536913b751d90c4ed8b7",
-    "displayTitle": "Winning your first customers. Let's wrap it up",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "article-style-4",
-    "_displayTitleSettings": {
-      "_textAlign": "left",
-      "_fontSize": ""
-    },
-    "title": "Winning your first customers. Let's wrap it up",
-    "_type": "article",
-    "_courseOrder": "3-11"
-  },
-  {
-    "_id": "596737531568f8e516392e95",
-    "_sortOrder": 0,
-    "_parentId": "596737521568f8e516392e7c",
-    "_courseId": "5967374c1568f8e516392e16",
-    "__v": 0,
-    "_refId": "58dd5115fddda761309e06b2",
-    "displayTitle": "Get registered and get to work!",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "article-style-5",
-    "title": "Get registered and get to work!",
-    "_type": "article",
-    "_courseOrder": "4-0"
-  },
-  {
-    "_id": "596737521568f8e516392e7d",
-    "_courseId": "5967374c1568f8e516392e16",
-    "_parentId": "596737521568f8e516392e7c",
-    "_sortOrder": 1,
-    "__v": 0,
-    "displayTitle": "",
-    "body": "",
-    "_refId": "58d2536413b751d90c4ed7f5",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200,
-            "src": {
-              "_id": "58ad7fa450d3bf600d233ae7",
-              "_extension": "png",
-              "_type": "image",
-              "_size": "large"
-            }
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "title": "Divide equity between co-founders",
-    "_type": "article",
-    "_courseOrder": "4-1"
-  },
-  {
-    "_id": "596737521568f8e516392e86",
-    "_sortOrder": 2,
-    "_parentId": "596737521568f8e516392e7c",
-    "_courseId": "5967374c1568f8e516392e16",
-    "__v": 0,
-    "displayTitle": "",
-    "body": "",
-    "_refId": "58d2536513b751d90c4ed820",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "title": "When and how to register your business",
-    "_type": "article",
-    "_courseOrder": "4-2"
-  },
-  {
-    "_id": "596737531568f8e516392e98",
-    "_sortOrder": 3,
-    "_parentId": "596737521568f8e516392e7c",
-    "_courseId": "5967374c1568f8e516392e16",
-    "__v": 0,
-    "_refId": "591c4e1302778c512a0aabd5",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "article-style-7",
-    "title": "Types of businesses",
-    "_type": "article",
-    "_courseOrder": "4-3"
-  },
-  {
-    "_id": "596737521568f8e516392e80",
-    "_sortOrder": 4,
-    "_parentId": "596737521568f8e516392e7c",
-    "_courseId": "5967374c1568f8e516392e16",
-    "__v": 0,
-    "displayTitle": "",
-    "_refId": "58d2536413b751d90c4ed800",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200,
-            "src": {
-              "_id": "58b6b5df6faa37e74495147c",
-              "_extension": "jpeg",
-              "_type": "image",
-              "_size": "large"
-            }
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "title": "Being a company director",
-    "_type": "article",
-    "_courseOrder": "4-4"
-  },
-  {
-    "_id": "596737531568f8e516392e9b",
-    "_sortOrder": 5,
-    "_parentId": "596737521568f8e516392e7c",
-    "_courseId": "5967374c1568f8e516392e16",
-    "__v": 0,
-    "_refId": "593920eb08a265827f217b48",
-    "displayTitle": "Ready to be a director?",
-    "_progress": {
-      "_isEnabled": false
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "cover",
-      "src": {
-        "_type": "image",
-        "_extension": "jpeg",
-        "_id": "595628b8ef64ffa15e2f1e24"
-      }
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "title": "Ready to be a director?",
-    "_type": "article",
-    "_courseOrder": "4-5"
-  },
-  {
-    "_id": "596737521568f8e516392e83",
-    "_sortOrder": 6,
-    "_parentId": "596737521568f8e516392e7c",
-    "_courseId": "5967374c1568f8e516392e16",
-    "__v": 0,
-    "body": "",
-    "_refId": "58d2536513b751d90c4ed81b",
-    "displayTitle": "",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "title": "Register your company",
-    "_type": "article",
-    "_courseOrder": "4-6"
-  },
-  {
-    "_id": "596737531568f8e516392e8d",
-    "_sortOrder": 7,
-    "_parentId": "596737521568f8e516392e7c",
-    "_courseId": "5967374c1568f8e516392e16",
-    "__v": 0,
-    "_refId": "58dd4fdcfddda761309e06ae",
-    "displayTitle": "",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "title": "Divide equity between founders",
-    "_type": "article",
-    "_courseOrder": "4-7"
-  },
-  {
-    "_id": "596737531568f8e516392e91",
-    "_sortOrder": 8,
-    "_parentId": "596737521568f8e516392e7c",
-    "_courseId": "5967374c1568f8e516392e16",
-    "__v": 0,
-    "_refId": "58dd4fe2fddda761309e06b0",
-    "displayTitle": "",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "title": "Directors responsibilities",
-    "_type": "article",
-    "_courseOrder": "4-8"
-  },
-  {
-    "_id": "596737521568f8e516392e8a",
-    "_sortOrder": 9,
-    "_parentId": "596737521568f8e516392e7c",
-    "_courseId": "5967374c1568f8e516392e16",
-    "__v": 0,
-    "_refId": "58d2536513b751d90c4ed825",
-    "displayTitle": "Make your business official. Let's wrap it up",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "article-style-4",
-    "title": "Make your business official. Let's wrap it up",
-    "_type": "article",
-    "_courseOrder": "4-9"
+    "_courseOrder": "0-12"
   }
 ]

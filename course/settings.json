@@ -1,7 +1,7 @@
 {
-  "_id": "5967374c1568f8e516392e18",
+  "_id": "5996c8d2d1ce4b5f68048828",
   "_menu": "playlistMenu",
-  "_courseId": "5967374c1568f8e516392e16",
+  "_courseId": "5996c8d2d1ce4b5f68048826",
   "__v": 1020,
   "_themeSettings": {
     "_colors": {
@@ -347,7 +347,7 @@
       "_getData": "../../api/usersCourse",
       "_login": "../../api/login",
       "_auth": "../../api/isAuthenticated",
-      "_isEnabled": false
+      "_isEnabled": true
     }
   },
   "_assets": [
@@ -379,10 +379,10 @@
       "_id": "58b3fd8b6faa37e7449513ee"
     },
     {
-      "_id": "58b41ffc6faa37e744951408"
+      "_id": "58b86ba86faa37e7449516a1"
     },
     {
-      "_id": "58b040a16faa37e7449513e2"
+      "_id": "58b86bcc6faa37e7449516a3"
     },
     {
       "_id": "58b0435a6faa37e7449513e9"
@@ -391,28 +391,7 @@
       "_id": "58b02e8d6faa37e744951399"
     },
     {
-      "_id": "58b86ba86faa37e7449516a1"
-    },
-    {
-      "_id": "58b86bcc6faa37e7449516a3"
-    },
-    {
-      "_id": "58b949886faa37e7449516ae"
-    },
-    {
-      "_id": "58b949266faa37e7449516a9"
-    },
-    {
-      "_id": "58b949746faa37e7449516ad"
-    },
-    {
-      "_id": "58b948ff6faa37e7449516a8"
-    },
-    {
-      "_id": "58b949636faa37e7449516ac"
-    },
-    {
-      "_id": "58b949476faa37e7449516ab"
+      "_id": "58ad7fa450d3bf600d233ae7"
     },
     {
       "_id": "58b6b5df6faa37e74495147c"
@@ -421,58 +400,16 @@
       "_id": "595628b8ef64ffa15e2f1e24"
     },
     {
-      "_id": "58ad7fa450d3bf600d233ae7"
+      "_id": "598858797d86c20e2a40fb30"
     },
     {
-      "_id": "595e024a820fbf6e0433bd00"
+      "_id": "598857297d86c20e2a40fb2b"
     },
     {
-      "_id": "595e02cb820fbf6e0433bd01"
+      "_id": "598857367d86c20e2a40fb2d"
     },
     {
-      "_id": "595e0349820fbf6e0433bd02"
-    },
-    {
-      "_id": "595e052c820fbf6e0433bd03"
-    },
-    {
-      "_id": "595e05fe820fbf6e0433bd04"
-    },
-    {
-      "_id": "595e084d820fbf6e0433bd05"
-    },
-    {
-      "_id": "595e0c6c820fbf6e0433bd08"
-    },
-    {
-      "_id": "595e0bf6820fbf6e0433bd07"
-    },
-    {
-      "_id": "595e0a72820fbf6e0433bd06"
-    },
-    {
-      "_id": "594cd68887b6e2594d6d179b"
-    },
-    {
-      "_id": "59512ac46bf9a4dd79181513"
-    },
-    {
-      "_id": "594ce05387b6e2594d6d179e"
-    },
-    {
-      "_id": "591b352002778c512a0aa9b7"
-    },
-    {
-      "_id": "595dfbd8820fbf6e0433bcfd"
-    },
-    {
-      "_id": "595dfd16820fbf6e0433bcfe"
-    },
-    {
-      "_id": "595dffa9820fbf6e0433bcff"
-    },
-    {
-      "_id": "59512eb66bf9a4dd79181516"
+      "_id": "598857467d86c20e2a40fb2f"
     },
     {
       "_id": "594d13d487b6e2594d6d17a7"
@@ -518,116 +455,23 @@
     },
     {
       "_id": "58de6e4dfddda761309e0798"
-    },
-    {
-      "_id": "58e76186c5364e5c79974bcd"
-    },
-    {
-      "_id": "58e761e5c5364e5c79974bd3"
-    },
-    {
-      "_id": "58e761fbc5364e5c79974bd5"
-    },
-    {
-      "_id": "589853b550d3bf600d233ac1"
-    },
-    {
-      "_id": "595645d1ef64ffa15e2f1e35"
-    },
-    {
-      "_id": "59527d61fc96d4ba636c729e"
-    },
-    {
-      "_id": "594d227a87b6e2594d6d17ae"
-    },
-    {
-      "_id": "595647cfef64ffa15e2f1e36"
-    },
-    {
-      "_id": "59564838ef64ffa15e2f1e37"
-    },
-    {
-      "_id": "59564952ef64ffa15e2f1e38"
-    },
-    {
-      "_id": "59564c6def64ffa15e2f1e39"
-    },
-    {
-      "_id": "595124f56bf9a4dd79181510"
-    },
-    {
-      "_id": "595500ffe0711ea656fe2a3a"
-    },
-    {
-      "_id": "595123da6bf9a4dd7918150f"
-    },
-    {
-      "_id": "5954ff5de0711ea656fe2a39"
-    },
-    {
-      "_id": "58de7a77fddda761309e07af"
-    },
-    {
-      "_id": "58de7a90fddda761309e07b2"
-    },
-    {
-      "_id": "58dd8481fddda761309e072e"
-    },
-    {
-      "_id": "594d10a787b6e2594d6d17a4"
-    },
-    {
-      "_id": "59562badef64ffa15e2f1e2b"
-    },
-    {
-      "_id": "595635eaef64ffa15e2f1e31"
-    },
-    {
-      "_id": "595e1921820fbf6e0433bd10"
-    },
-    {
-      "_id": "59563825ef64ffa15e2f1e32"
-    },
-    {
-      "_id": "598861417d86c20e2a40fb33"
-    },
-    {
-      "_id": "5988614a7d86c20e2a40fb34"
-    },
-    {
-      "_id": "597f02de4287197f7ae9dd18"
-    },
-    {
-      "_id": "598858797d86c20e2a40fb30"
-    },
-    {
-      "_id": "598857297d86c20e2a40fb2b"
-    },
-    {
-      "_id": "598857367d86c20e2a40fb2d"
-    },
-    {
-      "_id": "598857467d86c20e2a40fb2f"
     }
   ],
   "_components": [
     "text",
-    "accordion",
-    "graphic",
-    "flowChart",
-    "mcq",
-    "ordering",
-    "checklist",
     "videoStream",
     "narrative",
+    "accordion",
+    "graphic",
     "interactiveVideo",
-    "matching",
-    "dragAndDrop"
+    "mcq",
+    "matching"
   ],
   "_extensions": [
     "progress",
     "achievements",
     "branding",
-    "courseAttainment"
+    "courseAttainment",
+    "tracker"
   ]
 }

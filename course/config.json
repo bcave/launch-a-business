@@ -1,13 +1,13 @@
 {
-  "_id": "5967374c1568f8e516392e17",
-  "_courseId": "5967374c1568f8e516392e16",
+  "_id": "5996c8d2d1ce4b5f68048827",
+  "_courseId": "5996c8d2d1ce4b5f68048826",
   "__v": 0,
   "_tracker": {
-    "_pushData": "../../api/usersCourse",
-    "_getData": "../../api/usersCourse",
-    "_login": "../../api/login",
+    "_isEnabled": true,
     "_auth": "../../api/isAuthenticated",
-    "_isEnabled": false
+    "_login": "../../api/login",
+    "_getData": "../../api/usersCourse",
+    "_pushData": "../../api/usersCourse"
   },
   "_scorm": {
     "_reporting": {

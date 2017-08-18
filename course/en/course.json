@@ -1,12 +1,12 @@
 {
-  "_id": "5967374c1568f8e516392e16",
-  "_createdAt": 1499936588023,
-  "_modifiedAt": 1502451743585,
+  "_id": "5996c8d2d1ce4b5f68048826",
+  "_createdAt": 1503054034558,
+  "_modifiedAt": 1503066448460,
   "__v": 1,
   "_refId": "58d2536013b751d90c4ed711",
   "body": "",
   "_theme": "58b69e3d6faa37e74495146f",
-  "displayTitle": "How can I take my business from concept to launch?",
+  "displayTitle": "Navigate the pitfalls of launching a business",
   "_swipeMenu": {
     "_shouldShowProgressBarsOnMenus": true,
     "_menuContentItems": [],
@@ -114,18 +114,18 @@
     "_isEnabled": true
   },
   "_courseAttainment": {
-    "closeWindowText": "Close window",
-    "_shouldUseCorrectQuestions": false,
+    "closeWindowText": "Back to DBA",
+    "_shouldUseCorrectQuestions": true,
     "_shouldCloseWindowOnCourseAttained": true,
     "_shouldHideSummaryAndIcon": true,
-    "completionNotifyTitle": "Course attained",
-    "completionTitle": "Course attained",
+    "completionNotifyTitle": "Course complete!",
+    "completionTitle": "Course complete!",
     "_attainmentMethod": "components",
     "_isEnabled": true,
-    "title": "Course Attainment"
+    "title": "Course complete!"
   },
   "_branding": {
-    "copyright": "<p style=\"text-align: center;\"><a href=\"http://www.digitalbusinessacademyuk.com/terms-conditions\" target=\"_blank\">Terms</a>    <a href=\"http://www.digitalbusinessacademyuk.com/privacy-policy\" target=\"_blank\">Privacy</a>    <a href=\"http://www.digitalbusinessacademyuk.com/faqs\" target=\"_blank\">FAQs</a></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">2017 Tech City UK ©</p>",
+    "copyright": "<p style=\"text-align: center;\" class=\"\"><br></p><p style=\"text-align: center;\"><a href=\"http://www.digitalbusinessacademyuk.com/privacy-policy\" target=\"_blank\">Privacy</a>   I   <a href=\"http://www.digitalbusinessacademyuk.com/cookies-policy\" target=\"_blank\">Cookies</a>   I   <a href=\"http://www.digitalbusinessacademyuk.com/terms-conditions\" target=\"_blank\">Terms</a>   I   <a href=\"http://www.digitalbusinessacademyuk.com/faqs\" target=\"_blank\">FAQs</a>   I   Copyright © 2017 <a href=\"http://www.techcityuk.com/\" target=\"_blank\">Tech City UK</a></p>",
     "_shouldPlaceFooterLogosWithCopyright": true,
     "_logos": {
       "_secondaryLogo": {
@@ -217,8 +217,8 @@
   },
   "_globals": {
     "_questionAttempts": {
-      "_attempts": 1,
-      "_shouldUseGlobalAttempts": false
+      "_attempts": 10,
+      "_shouldUseGlobalAttempts": true
     },
     "_feedbackText": {
       "incorrectFinalFeedback": "Incorrect",
@@ -279,9 +279,10 @@
     "_shouldHideMenu": true
   },
   "_version": {
-    "versionTitle": "aArdent Edits",
-    "_isLanguageVersion": false,
-    "_isVersion": false
+    "_isVersion": false,
+    "_masterVersionId": null,
+    "versionTitle": null,
+    "_isLanguageVersion": false
   },
   "_reviews": {
     "_reviews": [],
@@ -294,6 +295,6 @@
     "_fontSize": "",
     "_textAlign": "center"
   },
-  "title": "2. How can I take my business from concept to launch? master aArdent Edits",
+  "title": "2. Navigate the pitfalls of launching a business 2/3",
   "_type": "course"
 }
