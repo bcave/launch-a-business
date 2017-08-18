@@ -347,7 +347,7 @@
       "_getData": "../../api/usersCourse",
       "_login": "../../api/login",
       "_auth": "../../api/isAuthenticated",
-      "_isEnabled": true
+      "_isEnabled": false
     }
   },
   "_assets": [
@@ -471,7 +471,6 @@
     "progress",
     "achievements",
     "branding",
-    "courseAttainment",
-    "tracker"
+    "courseAttainment"
   ]
 }
