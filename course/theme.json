@@ -12378,7 +12378,7 @@
         "@notify-button-background-color": "@swatch-3"
       },
       "@notify-icon-size": "75px",
-      "@notify-icon-color": "@swatch-3",
+      "@notify-icon-color": "@swatch-1",
       "_notifyBodyTextPadding": {
         "@notify-body-text-padding-left-mobile": "0px",
         "@notify-body-text-padding-bottom-mobile": "0px",

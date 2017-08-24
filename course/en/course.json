@@ -1,12 +1,12 @@
 {
-  "_id": "5996c8d2d1ce4b5f68048826",
-  "_createdAt": 1503054034558,
-  "_modifiedAt": 1503068408076,
+  "_id": "5995c4663c1f9689400bbc5e",
+  "_createdAt": 1502987366259,
+  "_modifiedAt": 1503410840527,
   "__v": 1,
   "_refId": "58d2536013b751d90c4ed711",
-  "body": "",
-  "_theme": "58b69e3d6faa37e74495146f",
   "displayTitle": "Navigate the pitfalls of launching a business",
+  "_theme": "58b69e3d6faa37e74495146f",
+  "body": "",
   "_swipeMenu": {
     "_shouldShowProgressBarsOnMenus": true,
     "_menuContentItems": [],
@@ -60,25 +60,25 @@
   "_mapMenu": {
     "_closeButtonText": "Close",
     "_defaultPointerImage": {
-      "_id": "58af18c350d3bf600d233b6e",
+      "_type": "image",
       "_extension": "png",
-      "_type": "image"
+      "_id": "58af18c350d3bf600d233b6e"
     },
     "_mapImage": {
-      "_id": "58b02c5c6faa37e744951397",
-      "_extension": "png",
+      "_size": "large",
       "_type": "image",
-      "_size": "large"
+      "_extension": "png",
+      "_id": "58b02c5c6faa37e744951397"
     }
   },
   "_coverMenu": {
     "_shouldShowProgressBarsOnMenus": true,
     "_coverButtonText": "View",
     "src": {
-      "_id": "58b02c5c6faa37e744951397",
-      "_extension": "png",
+      "_size": "large",
       "_type": "image",
-      "_size": "large"
+      "_extension": "png",
+      "_id": "58b02c5c6faa37e744951397"
     }
   },
   "_boxMenu": {
@@ -132,9 +132,9 @@
         "_isLocatedInFooter": true,
         "alignment": "center",
         "src": {
-          "_id": "598c3250abd446e07f9af8c7",
+          "_type": "image",
           "_extension": "png",
-          "_type": "image"
+          "_id": "598c3250abd446e07f9af8c7"
         }
       },
       "_primaryLogo": {
@@ -146,11 +146,12 @@
     "_isEnabled": true
   },
   "_achievements": {
+    "body": "<p style=\"text-align: right;\">Keep track of how many points you have unlocked.&nbsp;</p><p style=\"text-align: right;\"> </p><p style=\"text-align: right;\">You can&nbsp;<a href=\"http://www.digitalbusinessacademyuk.com/#/rewards\" target=\"_blank\">spend your points on the rewards page</a>. &nbsp;</p>",
     "_badges": {
       "_items": [
         {
-          "_id": "58b035ec6faa37e7449513a8",
           "itemIndex": 0,
+          "_id": "58b035ec6faa37e7449513a8",
           "_badgeCompletionType": "components"
         }
       ],
@@ -174,11 +175,11 @@
     },
     "_points": {
       "_defaultPoints": 50,
-      "pointsLabel": "Reward Points",
-      "pointsName": "Reward Points",
+      "pointsLabel": "Points",
+      "pointsName": "Points",
       "_isEnabled": true
     },
-    "title": "Rewards",
+    "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Points",
     "_isEnabled": true
   },
   "_pageBackgroundImage": {
@@ -194,9 +195,9 @@
       "_position": "top",
       "_size": "cover",
       "src": {
-        "_type": "image",
+        "_id": "592e999902778c512a0afb9b",
         "_extension": "jpeg",
-        "_id": "592e999902778c512a0afb9b"
+        "_type": "image"
       }
     }
   },
@@ -292,9 +293,9 @@
   "_categories": [],
   "_isEditLocked": false,
   "_displayTitleSettings": {
-    "_fontSize": "",
-    "_textAlign": "center"
+    "_textAlign": "center",
+    "_fontSize": ""
   },
-  "title": "2. Navigate the pitfalls of launching a business 2/3",
+  "title": "2. Navigate the pitfalls of launching a business",
   "_type": "course"
 }

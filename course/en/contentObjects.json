@@ -1,11 +1,317 @@
 [
   {
-    "_id": "5996c8d3d1ce4b5f6804885f",
-    "_courseId": "5996c8d2d1ce4b5f68048826",
-    "_parentId": "5996c8d2d1ce4b5f68048826",
+    "_id": "5995c4673c1f9689400bbce5",
+    "_courseId": "5995c4663c1f9689400bbc5e",
+    "_parentId": "5995c4663c1f9689400bbc5e",
     "_sortOrder": 0,
     "__v": 0,
-    "displayTitle": "Avoiding pitfalls with your finances",
+    "displayTitle": "Avoiding common mistakes in building your team",
+    "duration": "15 minutes",
+    "_refId": "58d2536513b751d90c4ed835",
+    "_swipeMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldShowControlsOnBottom": false,
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false,
+      "_hoverGraphic": {
+        "src": {
+          "_size": "small",
+          "_type": "image",
+          "_extension": "png",
+          "_id": "58b948ff6faa37e7449516a8"
+        }
+      }
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_mapMenu": {
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View",
+      "src": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "58b0435a6faa37e7449513e9"
+      }
+    },
+    "_boxMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "src": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "58b948ff6faa37e7449516a8"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": true,
+      "_fixed": false,
+      "_position": "top",
+      "_size": "contain"
+    },
+    "_heroImage": {
+      "title": "",
+      "_graphic": {
+        "_small": {
+          "src": {
+            "_id": "58b949746faa37e7449516ad",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_large": {
+          "src": {
+            "_id": "58b949746faa37e7449516ad",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "large"
+          }
+        }
+      },
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center",
+      "_isEnabled": false
+    },
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "🕜 ",
+    "linkText": "Let's go!",
+    "title": "Avoiding common mistakes in building your team",
+    "_type": "page",
+    "_courseOrder": "0"
+  },
+  {
+    "_id": "5995c4663c1f9689400bbc61",
+    "_courseId": "5995c4663c1f9689400bbc5e",
+    "_parentId": "5995c4663c1f9689400bbc5e",
+    "_sortOrder": 1,
+    "__v": 0,
+    "displayTitle": "Staying prepared with a good launch plan",
+    "duration": "15 minutes",
+    "_refId": "58d2536013b751d90c4ed71a",
+    "_swipeMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldShowControlsOnBottom": false,
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false,
+      "_hoverGraphic": {
+        "src": {
+          "_size": "small",
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "58b02e8d6faa37e744951399"
+        }
+      }
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_mapMenu": {
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View",
+      "src": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "58b0435a6faa37e7449513e9"
+      }
+    },
+    "_boxMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "src": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "58b040a16faa37e7449513e2"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": true,
+      "_fixed": false,
+      "_position": "top",
+      "_size": "contain"
+    },
+    "_heroImage": {
+      "title": "Make a detailed plan",
+      "_graphic": {
+        "_large": {
+          "src": {
+            "_id": "58b41ffc6faa37e744951408",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "large"
+          }
+        }
+      },
+      "_contentWidth": 70,
+      "textAlignment": "center",
+      "layout": "center",
+      "_isEnabled": false
+    },
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "🕜 ",
+    "linkText": "Let's go!",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": ""
+    },
+    "title": "Staying prepared with a good launch plan",
+    "_type": "page",
+    "_courseOrder": "1"
+  },
+  {
+    "_id": "5995c4673c1f9689400bbc97",
+    "_courseId": "5995c4663c1f9689400bbc5e",
+    "_parentId": "5995c4663c1f9689400bbc5e",
+    "_sortOrder": 2,
+    "__v": 0,
+    "displayTitle": "Avoiding running out of cash",
     "duration": "15 minutes",
     "_refId": "58d2536113b751d90c4ed761",
     "_swipeMenu": {
@@ -142,8 +448,319 @@
     "_categories": [],
     "durationLabel": "🕜 ",
     "linkText": "Let's go!",
-    "title": "Avoiding pitfalls with your finances",
+    "title": "Avoiding running out of cash",
     "_type": "page",
-    "_courseOrder": "0"
+    "_courseOrder": "2"
+  },
+  {
+    "_id": "5995c4683c1f9689400bbd05",
+    "_courseId": "5995c4663c1f9689400bbc5e",
+    "_parentId": "5995c4663c1f9689400bbc5e",
+    "_sortOrder": 3,
+    "__v": 0,
+    "displayTitle": "Creating a positive sales experience for your first customers",
+    "duration": "15 minutes",
+    "_refId": "58d2536713b751d90c4ed87f",
+    "_swipeMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldShowControlsOnBottom": false,
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false,
+      "_graphic": {
+        "src": {
+          "_size": "small",
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "58b02e8d6faa37e744951399"
+        }
+      }
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_mapMenu": {
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View",
+      "src": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "58b0435a6faa37e7449513e9"
+      }
+    },
+    "_boxMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "src": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "58b949476faa37e7449516ab"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": true,
+      "_fixed": false,
+      "_position": "top",
+      "_size": "contain"
+    },
+    "_heroImage": {
+      "title": "",
+      "_graphic": {
+        "_small": {
+          "src": {
+            "_id": "58b949636faa37e7449516ac",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_large": {
+          "src": {
+            "_id": "58b949636faa37e7449516ac",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "large"
+          }
+        }
+      },
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center",
+      "_isEnabled": false
+    },
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "🕜 ",
+    "linkText": "Let's go!",
+    "title": "Creating a positive sales experience for your first customers",
+    "_type": "page",
+    "_courseOrder": "3"
+  },
+  {
+    "_id": "5995c4673c1f9689400bbcc4",
+    "_courseId": "5995c4663c1f9689400bbc5e",
+    "_parentId": "5995c4663c1f9689400bbc5e",
+    "_sortOrder": 4,
+    "__v": 0,
+    "displayTitle": "Choosing the right legal structure for your business",
+    "duration": "15 minutes",
+    "body": "",
+    "_refId": "58d2536413b751d90c4ed7ee",
+    "_swipeMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldShowControlsOnBottom": false,
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false,
+      "_graphic": {
+        "src": {
+          "_size": "small",
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "58b02e8d6faa37e744951399"
+        }
+      }
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_mapMenu": {
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View",
+      "src": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "58b0435a6faa37e7449513e9"
+      }
+    },
+    "_boxMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "src": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "58b949266faa37e7449516a9"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": true,
+      "_fixed": false,
+      "_position": "top",
+      "_size": "contain"
+    },
+    "_heroImage": {
+      "title": "",
+      "_graphic": {
+        "_small": {
+          "src": {
+            "_id": "58b949886faa37e7449516ae",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_large": {
+          "src": {
+            "_id": "58b949886faa37e7449516ae",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "large"
+          }
+        }
+      },
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center",
+      "_isEnabled": false
+    },
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "🕜 ",
+    "linkText": "Let's go!",
+    "title": "Choosing the right legal structure for your business",
+    "_type": "page",
+    "_courseOrder": "4"
   }
 ]
